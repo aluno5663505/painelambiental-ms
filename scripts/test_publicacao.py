@@ -1,4 +1,5 @@
 import json
+from html.parser import HTMLParser
 import tempfile
 import unittest
 from pathlib import Path
@@ -7,7 +8,39 @@ from preparar_site import RAIZ, preparar
 from distribuir_meses import CAMPOS, distribuir
 
 
+class EstruturaHTML(HTMLParser):
+    VAZIOS = {'meta', 'link', 'br', 'hr', 'img', 'input', 'wbr', 'source', 'area', 'base', 'col', 'embed', 'param', 'track'}
+
+    def __init__(self):
+        super().__init__()
+        self.pilha = []
+        self.erros = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag not in self.VAZIOS:
+            self.pilha.append(tag)
+
+    def handle_endtag(self, tag):
+        if not self.pilha or self.pilha[-1] != tag:
+            self.erros.append((self.getpos(), tag))
+        else:
+            self.pilha.pop()
+
+    def handle_data(self, texto):
+        if '<' in texto and 'script' not in self.pilha:
+            self.erros.append(('Possível marcação exposta', texto[:80]))
+
+
 class PublicacaoTest(unittest.TestCase):
+    def test_html_sem_tags_corrompidas(self):
+        for nome in ['index.html', 'metodologia.html']:
+            with self.subTest(pagina=nome):
+                parser = EstruturaHTML()
+                parser.feed((RAIZ / nome).read_text(encoding='utf-8'))
+                self.assertEqual(parser.erros, [])
+                self.assertEqual(parser.pilha, [])
+
+
     def test_totais_historicos_reconciliados(self):
         dados = json.loads((RAIZ / 'data/indicadores.json').read_text(encoding='utf-8'))
         self.assertAlmostEqual(sum(r['etanol_l'] for r in dados['historico']), 419609.1668, places=2)

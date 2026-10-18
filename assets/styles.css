@@ -202,8 +202,9 @@ section[id] { scroll-margin-top: 1.5rem; }
 .chart-controls { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1rem; margin-top: .75rem; }
 .chart-controls select { width: auto; min-width: 130px; font-size: .82rem; }
 .chart-controls label select { display: block; margin-top: .3rem; }
-.chart { min-width: 0; min-height: 250px; margin: 1rem 0; }
-.chart svg { display: block; width: 100%; height: auto; }
+.chart { min-width: 0; min-height: 250px; margin: 1rem 0; overflow-x: auto; }
+.chart svg { display: block; width: 100%; min-width: 600px; height: auto; }
+#consulta-status { color: var(--muted); font-size: .8rem; }
 .chart text { fill: var(--muted); font-family: var(--font-sans); font-size: 12px; }
 .chart .bar { fill: var(--blue); }
 .chart .grid { stroke: var(--line); stroke-width: 1; }

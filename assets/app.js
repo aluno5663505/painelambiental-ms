@@ -50,9 +50,16 @@ function desenharGrafico() {
   });
   porId('chart-total').textContent = `${numero(somar(mensais, 'co2e_evitado_kg') / 1000)} t em ${ano}`;
   porId('chart-note').textContent = ano === '2026'
-    ? 'Jan–18 out. 2026. Set/out: proxy dos respectivos meses de 2025; outubro parcial. Rateio visual, não medição mensal.'
+    ? 'Período: janeiro a 18 de outubro de 2026. Setembro e outubro usam as vendas dos mesmos meses de 2025 como referência; outubro considera 18 dias. Os valores mensais são estimados, não abastecimentos medidos por mês.'
     : 'Rateio dos totais originais pela sazonalidade das vendas estaduais de etanol. Não representa medição mensal da frota.';
   porId('monthly-body').replaceChildren();
+  if (!mensais.length) {
+    porId('chart-total').textContent = `Sem dados em ${ano}`;
+    porId('chart-periodos').textContent = 'Não há dados para este ano, entidade e unidade.';
+    porId('chart-periodos').setAttribute('aria-label', 'Sem dados no recorte selecionado.');
+    adicionarLinha(porId('monthly-body'), ['Sem dados neste recorte', '—', '—']);
+    return;
+  }
   grupos.forEach((grupo) => adicionarLinha(porId('monthly-body'), [grupo.nome, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3)]));
   const svg = criarSvg('svg', {viewBox: '0 0 700 330', 'aria-hidden': 'true'});
   const maximo = Math.max(...grupos.map((g) => g.co2e_evitado_kg / 1000), 1) * 1.18;
@@ -81,6 +88,7 @@ function desenharEntidades(linhas) {
   const grupos = agrupar(linhas, (linha) => linha.entidade).sort((a, b) => a.nome.localeCompare(b.nome));
   const maximo = Math.max(...grupos.map((g) => g.co2e_evitado_kg), 1);
   porId('entity-bars').replaceChildren();
+  if (!linhas.length) porId('entity-bars').textContent = 'Sem dados neste recorte.';
   grupos.forEach((grupo) => {
     const linha = document.createElement('div');
     linha.className = 'entity-row';
@@ -135,6 +143,7 @@ function adicionarLinha(corpo, valores) {
 
 function atualizarDiarios() {
   const linhas = dados.simulados.filter((linha) =>
+    (porId('filtro-ano').value === 'todos' || linha.data.startsWith(porId('filtro-ano').value)) &&
     (porId('filtro-entidade').value === 'todas' || linha.entidade === porId('filtro-entidade').value) &&
     (porId('filtro-unidade').value === 'todas' || linha.unidade === porId('filtro-unidade').value));
   porId('daily-body').replaceChildren();
@@ -158,6 +167,11 @@ function atualizar() {
   desenharEntidades(linhas);
   atualizarTabela(linhas);
   atualizarDiarios();
+  porId('consulta-status').textContent = linhas.length ? `Consulta atualizada: ${linhas.length} registros históricos agregados.` : 'Sem dados históricos neste recorte.';
+  if (!linhas.length) {
+    ['kpi-etanol', 'kpi-evitado', 'kpi-gasolina', 'kpi-real'].forEach((id) => { porId(id).textContent = '—'; });
+    adicionarLinha(porId('table-body'), ['Sem dados neste recorte', '—', '—', '—', '—']);
+  }
 }
 
 async function iniciar() {
@@ -192,7 +206,7 @@ async function iniciar() {
     sensibilidade.className = 'sensitivity-note';
     sensibilidade.textContent = `Sensibilidade do histórico completo: ${numero(dados.cenarios.find((c) => c.cenario === 'MINIMO').co2e_evitado_kg / 1000)}–${numero(dados.cenarios.find((c) => c.cenario === 'MAXIMO').co2e_evitado_kg / 1000)} t CO₂e. Não é intervalo estatístico de confiança e não acompanha os filtros.`;
     document.querySelector('.context-panel').append(sensibilidade);
-    porId('ultima-atualizacao').textContent = `Dados preparados em ${new Intl.DateTimeFormat('pt-BR', {dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Campo_Grande'}).format(new Date(dados.gerado_em))}`;
+    porId('ultima-atualizacao').textContent = `Dados preparados em ${new Intl.DateTimeFormat('pt-BR', {dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Campo_Grande'}).format(new Date(dados.publicado_em || dados.gerado_em))}`;
 
     atualizar();
   } catch (erro) {
