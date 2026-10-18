@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import shutil
 from datetime import datetime, timedelta, timezone
@@ -44,6 +45,12 @@ def preparar(destino: Path, data_limite: str | None = None, teste_publicacao: bo
     destino.mkdir(parents=True, exist_ok=True)
     shutil.copy2(RAIZ / 'index.html', destino / 'index.html')
     shutil.copy2(RAIZ / 'metodologia.html', destino / 'metodologia.html')
+    for pagina in ['index.html', 'metodologia.html']:
+        conteudo = (destino / pagina).read_text(encoding='utf-8')
+        for recurso in ['assets/app.js', 'assets/styles.css']:
+            versao = hashlib.sha256((RAIZ / recurso).read_bytes()).hexdigest()[:12]
+            conteudo = conteudo.replace(f'"{recurso}"', f'"{recurso}?v={versao}"')
+        (destino / pagina).write_text(conteudo, encoding='utf-8')
     shutil.copytree(RAIZ / 'assets', destino / 'assets', dirs_exist_ok=True)
     (destino / 'data').mkdir(exist_ok=True)
     (destino / 'data/indicadores.json').write_text(

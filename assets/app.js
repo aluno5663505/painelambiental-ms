@@ -7,6 +7,35 @@ const porId = (id) => document.getElementById(id);
 const somar = (linhas, campo) => linhas.reduce((total, linha) => total + linha[campo], 0);
 const periodo = (linha) => `${linha.periodo_inicio.slice(8, 10)}/${linha.periodo_inicio.slice(5, 7)}/${linha.ano} – ${linha.periodo_fim.slice(8, 10)}/${linha.periodo_fim.slice(5, 7)}/${linha.periodo_fim.slice(0, 4)}`;
 let dados;
+let atualizando = false;
+
+function simuladosDaConsulta() {
+  if (porId('filtro-base').value !== 'combinado' || dados.teste_publicacao) return [];
+  return dados.simulados.map((linha) => ({...linha, ano: linha.data.slice(0, 4), periodo_inicio: linha.data, periodo_fim: linha.data}));
+}
+
+async function obterDados() {
+  const resposta = await fetch(`data/indicadores.json?atualizacao=${Date.now()}`, {cache: 'no-store'});
+  if (!resposta.ok) throw new Error('Falha ao obter indicadores');
+  return resposta.json();
+}
+
+async function consultarAtualizacoes() {
+  if (atualizando || document.hidden) return;
+  atualizando = true;
+  try {
+    const novos = await obterDados();
+    if (novos.publicado_em !== dados.publicado_em) {
+      dados = novos;
+      atualizar();
+    }
+    porId('erro-dados').hidden = true;
+  } catch (erro) {
+    porId('ultima-atualizacao').textContent = 'Falha ao verificar atualizações. Dados anteriores mantidos; nova tentativa em um minuto.';
+  } finally {
+    atualizando = false;
+  }
+}
 
 function opcoes(select, valores, primeira) {
   select.replaceChildren(new Option(primeira, 'todas'));
@@ -14,7 +43,7 @@ function opcoes(select, valores, primeira) {
 }
 
 function linhasFiltradas() {
-  return dados.historico.filter((linha) =>
+  return [...dados.historico, ...simuladosDaConsulta()].filter((linha) =>
     (porId('filtro-ano').value === 'todos' || linha.ano === porId('filtro-ano').value) &&
     (porId('filtro-entidade').value === 'todas' || linha.entidade === porId('filtro-entidade').value) &&
     (porId('filtro-unidade').value === 'todas' || linha.unidade === porId('filtro-unidade').value));
@@ -40,11 +69,12 @@ function criarSvg(tag, atributos = {}, texto = '') {
 
 function desenharGrafico() {
   const ano = porId('grafico-ano').value;
-  const mensais = dados.mensais.filter((linha) => String(linha.ano) === ano &&
+  const baseMensal = [...dados.mensais, ...simuladosDaConsulta().map((linha) => ({...linha, mes: Number(linha.data.slice(5, 7))}))];
+  const mensais = baseMensal.filter((linha) => String(linha.ano) === ano &&
     (porId('filtro-entidade').value === 'todas' || linha.entidade === porId('filtro-entidade').value) &&
     (porId('filtro-unidade').value === 'todas' || linha.unidade === porId('filtro-unidade').value));
   const nomes = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'];
-  const grupos = Array.from({length: ano === '2026' ? 10 : 12}, (_, indice) => {
+  const grupos = Array.from({length: ano === '2026' ? Math.max(10, ...mensais.map((linha) => linha.mes)) : 12}, (_, indice) => {
     const mes = mensais.filter((linha) => linha.mes === indice + 1);
     return {nome: nomes[indice], etanol_l: somar(mes, 'etanol_l'), co2e_evitado_kg: somar(mes, 'co2e_evitado_kg')};
   });
@@ -52,6 +82,7 @@ function desenharGrafico() {
   porId('chart-note').textContent = ano === '2026'
     ? 'Período: janeiro a 18 de outubro de 2026. Setembro e outubro usam as vendas dos mesmos meses de 2025 como referência; outubro considera 18 dias. Os valores mensais são estimados, não abastecimentos medidos por mês.'
     : 'Rateio dos totais originais pela sazonalidade das vendas estaduais de etanol. Não representa medição mensal da frota.';
+  if (porId('filtro-base').value === 'combinado') porId('chart-note').textContent += ' Inclui incrementos SIMULADOS publicados, separados na fonte do histórico.';
   porId('monthly-body').replaceChildren();
   if (!mensais.length) {
     porId('chart-total').textContent = `Sem dados em ${ano}`;
@@ -167,7 +198,10 @@ function atualizar() {
   desenharEntidades(linhas);
   atualizarTabela(linhas);
   atualizarDiarios();
-  porId('consulta-status').textContent = linhas.length ? `Consulta atualizada: ${linhas.length} registros históricos agregados.` : 'Sem dados históricos neste recorte.';
+  porId('ultima-atualizacao').textContent = `Publicado em ${new Date(dados.publicado_em || dados.gerado_em).toLocaleString('pt-BR', {timeZone: 'America/Campo_Grande'})} · consulta automática a cada minuto`;
+  if (porId('filtro-base').value === 'combinado') porId('kpi-real').textContent = '—';
+  porId('consulta-status').textContent = linhas.length ? `Consulta atualizada: ${linhas.length} registros agregados no recorte.` : 'Sem dados históricos neste recorte.';
+  if (porId('filtro-base').value === 'combinado') porId('consulta-status').textContent += ' Base: histórico + SIMULAÇÃO. Emissão realizada não consolidada: métrica ausente no calendário.';
   if (!linhas.length) {
     ['kpi-etanol', 'kpi-evitado', 'kpi-gasolina', 'kpi-real'].forEach((id) => { porId(id).textContent = '—'; });
     adicionarLinha(porId('table-body'), ['Sem dados neste recorte', '—', '—', '—', '—']);
@@ -176,9 +210,7 @@ function atualizar() {
 
 async function iniciar() {
   try {
-    const resposta = await fetch('data/indicadores.json');
-    if (!resposta.ok) throw new Error('Falha ao obter indicadores');
-    dados = await resposta.json();
+    dados = await obterDados();
     [...new Set(dados.historico.map((linha) => linha.ano))].sort().forEach((ano) => porId('filtro-ano').add(new Option(ano, ano)));
     opcoes(porId('filtro-entidade'), dados.historico.map((linha) => linha.entidade), 'Todas as entidades');
     opcoes(porId('filtro-unidade'), dados.historico.map((linha) => linha.unidade), 'Todas as unidades');
@@ -187,13 +219,14 @@ async function iniciar() {
       opcoes(porId('filtro-unidade'), linhas.map((linha) => linha.unidade), 'Todas as unidades');
       atualizar();
     });
-    ['filtro-ano', 'filtro-unidade'].forEach((id) => porId(id).addEventListener('change', atualizar));
+    ['filtro-ano', 'filtro-unidade', 'filtro-base'].forEach((id) => porId(id).addEventListener('change', atualizar));
     porId('grafico-ano').addEventListener('change', () => desenharGrafico());
     porId('filtro-ano').addEventListener('change', () => {
       if (porId('filtro-ano').value !== 'todos') porId('grafico-ano').value = porId('filtro-ano').value;
       desenharGrafico();
     });
     porId('limpar-filtros').addEventListener('click', () => {
+      porId('filtro-base').value = 'historico';
       porId('filtro-ano').value = 'todos';
       porId('grafico-ano').value = '2026';
       porId('filtro-entidade').value = 'todas';
@@ -209,6 +242,8 @@ async function iniciar() {
     porId('ultima-atualizacao').textContent = `Dados preparados em ${new Intl.DateTimeFormat('pt-BR', {dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Campo_Grande'}).format(new Date(dados.publicado_em || dados.gerado_em))}`;
 
     atualizar();
+    setInterval(consultarAtualizacoes, 60000);
+    document.addEventListener('visibilitychange', consultarAtualizacoes);
   } catch (erro) {
     porId('erro-dados').hidden = false;
     porId('ultima-atualizacao').textContent = 'Indicadores temporariamente indisponíveis';
