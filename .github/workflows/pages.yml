@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      teste_publicacao:
+        description: 'Esperar cinco minutos e publicar uma amostra SIMULADO - TESTE (substituída no próximo deploy normal)'
+        type: boolean
+        default: false
   schedule:
     # 10:23 UTC = 06:23 em Campo Grande; agendamento não garante horário exato.
     - cron: '23 10 * * *'
@@ -22,8 +27,15 @@ jobs:
           python-version: '3.13'
       - name: Validar dados e pacote público
         run: python -m unittest discover -s scripts -p 'test_*.py' -v
-      - name: Preparar somente arquivos permitidos
+      - name: Esperar cinco minutos para teste visual
+        if: github.event_name == 'workflow_dispatch' && inputs.teste_publicacao
+        run: sleep 300
+      - name: Preparar publicação normal
+        if: github.event_name != 'workflow_dispatch' || !inputs.teste_publicacao
         run: python scripts/preparar_site.py
+      - name: Preparar amostra isolada de teste
+        if: github.event_name == 'workflow_dispatch' && inputs.teste_publicacao
+        run: python scripts/preparar_site.py --teste-publicacao
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

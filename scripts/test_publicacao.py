@@ -80,6 +80,21 @@ class PublicacaoTest(unittest.TestCase):
         for linha in dados['historico']:
             self.assertEqual(set(linha), permitidos)
 
+    def test_amostra_isolada_nao_altera_campanha(self):
+        caminho = RAIZ / 'data/calendario_simulado.json'
+        original = caminho.read_bytes()
+        with tempfile.TemporaryDirectory() as pasta:
+            destino = Path(pasta)
+            teste = preparar(destino, '2026-10-18', teste_publicacao=True)
+            self.assertTrue(teste['teste_publicacao'])
+            self.assertEqual(len(teste['simulados']), 1)
+            self.assertEqual(teste['simulados'][0]['data'], '2026-10-18')
+            self.assertEqual(teste['simulados'][0]['origem'], 'SIMULADO')
+            normal = preparar(destino, '2026-10-18')
+            self.assertFalse(normal['teste_publicacao'])
+            self.assertEqual(normal['simulados'], [])
+        self.assertEqual(caminho.read_bytes(), original)
+
     def test_calendario_e_publicacao_incremental(self):
         calendario = json.loads((RAIZ / 'data/calendario_simulado.json').read_text(encoding='utf-8'))
         self.assertTrue(calendario)

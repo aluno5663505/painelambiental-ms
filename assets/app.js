@@ -150,10 +150,10 @@ function atualizarDiarios() {
   const grupos = agrupar(linhas, (linha) => `${linha.data}|${linha.entidade}`).sort((a, b) => b.nome.localeCompare(a.nome));
   grupos.forEach((grupo) => {
     const [data, entidade] = grupo.nome.split('|');
-    adicionarLinha(porId('daily-body'), [data.split('-').reverse().join('/'), entidade, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3), 'SIMULADO']);
+    adicionarLinha(porId('daily-body'), [data.split('-').reverse().join('/'), entidade, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3), dados.teste_publicacao ? 'SIMULADO · TESTE' : 'SIMULADO']);
   });
   porId('simulation-state').textContent = linhas.length
-    ? `${numero(somar(linhas, 'etanol_l'))} L de etanol · ${numero(somar(linhas, 'co2e_evitado_kg') / 1000, 3)} t CO₂e direto evitado (simulação)`
+    ? `${numero(somar(linhas, 'etanol_l'))} L de etanol · ${numero(somar(linhas, 'co2e_evitado_kg') / 1000, 3)} t CO₂e direto evitado (${dados.teste_publicacao ? 'teste de publicação; fora da campanha' : 'simulação'})`
     : 'Nenhum registro publicado no recorte selecionado';
 }
 

@@ -13,13 +13,19 @@ from distribuir_meses import FONTE, distribuir
 RAIZ = Path(__file__).resolve().parents[1]
 
 
-def preparar(destino: Path, data_limite: str | None = None) -> dict:
+def preparar(destino: Path, data_limite: str | None = None, teste_publicacao: bool = False) -> dict:
     hoje = data_limite or datetime.now(timezone(timedelta(hours=-4))).date().isoformat()
     dados = json.loads((RAIZ / 'data/indicadores.json').read_text(encoding='utf-8'))
     calendario = json.loads((RAIZ / 'data/calendario_simulado.json').read_text(encoding='utf-8'))
     dados['mensais'] = distribuir(dados['historico'])
     dados['fonte_ponderacao_mensal'] = FONTE
     dados['simulados'] = [linha for linha in calendario if linha['data'] <= hoje]
+    if teste_publicacao:
+        # Cópia isolada: não antecipa nem altera o calendário da campanha.
+        amostra = dict(calendario[0])
+        amostra.update(data=hoje, origem='SIMULADO', teste_publicacao=True)
+        dados['simulados'] = [amostra]
+    dados['teste_publicacao'] = teste_publicacao
     dados['publicado_em'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
     dados['data_limite_simulacao'] = hoje
     permitidos = {'index.html', 'metodologia.html', 'assets', 'data', '.nojekyll'}
@@ -50,8 +56,9 @@ def preparar(destino: Path, data_limite: str | None = None) -> dict:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--destino', type=Path, default=RAIZ / 'dist')
+    parser.add_argument('--teste-publicacao', action='store_true', help='Publica apenas uma amostra sintética isolada para teste de deploy.')
     args = parser.parse_args()
-    dados = preparar(args.destino)
+    dados = preparar(args.destino, teste_publicacao=args.teste_publicacao)
     print(f"Site preparado. Simulação: {len(dados['simulados'])} agregados publicados.")
 
 
