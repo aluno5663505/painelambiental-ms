@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+"""Monta um pacote Pages por allowlist e libera somente datas alcançadas da simulação."""
+from __future__ import annotations
+
+import argparse
+import json
+import shutil
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+from distribuir_meses import FONTE, distribuir
+
+RAIZ = Path(__file__).resolve().parents[1]
+
+
+def preparar(destino: Path, data_limite: str | None = None) -> dict:
+    hoje = data_limite or datetime.now(timezone(timedelta(hours=-4))).date().isoformat()
+    dados = json.loads((RAIZ / 'data/indicadores.json').read_text(encoding='utf-8'))
+    calendario = json.loads((RAIZ / 'data/calendario_simulado.json').read_text(encoding='utf-8'))
+    dados['mensais'] = distribuir(dados['historico'])
+    dados['fonte_ponderacao_mensal'] = FONTE
+    dados['simulados'] = [linha for linha in calendario if linha['data'] <= hoje]
+    dados['publicado_em'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
+    dados['data_limite_simulacao'] = hoje
+    permitidos = {'index.html', 'metodologia.html', 'assets', 'data', '.nojekyll'}
+    if destino.exists():
+        inesperados = {item.name for item in destino.iterdir()} - permitidos
+        if inesperados:
+            raise ValueError(f'Arquivos inesperados no pacote: {sorted(inesperados)}')
+        arquivos_permitidos = {
+            'index.html', 'metodologia.html', 'assets/app.js', 'assets/styles.css',
+            'data/indicadores.json', '.nojekyll',
+                        'assets/fonts/sora/sora-latin.woff2', 'assets/fonts/sora/sora-latin-ext.woff2',
+        }
+        for arquivo in destino.rglob('*'):
+            if arquivo.is_file() and arquivo.relative_to(destino).as_posix() not in arquivos_permitidos:
+                raise ValueError(f'Arquivo não permitido: {arquivo.relative_to(destino)}')
+    destino.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(RAIZ / 'index.html', destino / 'index.html')
+    shutil.copy2(RAIZ / 'metodologia.html', destino / 'metodologia.html')
+    shutil.copytree(RAIZ / 'assets', destino / 'assets', dirs_exist_ok=True)
+    (destino / 'data').mkdir(exist_ok=True)
+    (destino / 'data/indicadores.json').write_text(
+        json.dumps(dados, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+    )
+    (destino / '.nojekyll').touch()
+    return dados
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--destino', type=Path, default=RAIZ / 'dist')
+    args = parser.parse_args()
+    dados = preparar(args.destino)
+    print(f"Site preparado. Simulação: {len(dados['simulados'])} agregados publicados.")
+
+
+if __name__ == '__main__':
+    main()

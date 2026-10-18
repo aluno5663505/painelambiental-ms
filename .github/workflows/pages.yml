@@ -1,0 +1,44 @@
+name: Publicar painel ambiental
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # 10:23 UTC = 06:23 em Campo Grande; agendamento não garante horário exato.
+    - cron: '23 10 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Validar dados e pacote público
+        run: python -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Preparar somente arquivos permitidos
+        run: python scripts/preparar_site.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+          retention-days: 1
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

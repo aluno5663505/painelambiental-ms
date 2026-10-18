@@ -1,3 +1,17 @@
+# Fontes restritas nunca devem integrar o repositório público
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.pdf
+*.docx
+*.xlsx
+*.csv
+.env.*
+private/
+build-public/
+playwright-report/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

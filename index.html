@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Painel acadêmico de consumo de etanol e emissões diretas de CO₂e evitadas em frota institucional.">
+  <meta name="theme-color" content="#213a54">
+  <title>Painel Ambiental GEOP - SFIEMS</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">PA</span>
+      <div><strong>Painel Ambiental GEOP - SFIEMS</strong><span>Projeto acadêmico · consulta pública</span></div>
+    </div>
+    <nav aria-label="Navegação principal">
+      <a href="#visao-geral">Visão geral</a><a href="#evolucao">Evolução</a><a href="#metodologia">Metodologia</a>
+    </nav>
+  </header>
+
+  <main id="conteudo">
+    <section class="intro" id="visao-geral">
+      <div>
+        <p class="eyebrow">Frota institucional SFIEMS · Mato Grosso do Sul</p>
+        <h1>Quanto o uso de etanol ajudou a reduzir o impacto ambiental?</h1>
+        <p class="lede">Uma leitura transparente do benefício estimado ao comparar o etanol consumido com a gasolina necessária para realizar o mesmo serviço de transporte.</p>
+      </div>
+      <aside class="status-note" aria-label="Escopo dos dados">
+        <span class="status-dot" aria-hidden="true"></span>
+        <div><strong>Histórico auditado</strong><p>Dados de relatórios agregados de 2024 a 2026.</p></div>
+      </aside>
+    </section>
+
+    <section class="filter-bar" aria-labelledby="titulo-filtros">
+      <h2 id="titulo-filtros">Recorte da consulta</h2>
+      <label>Ano<select id="filtro-ano"><option value="todos">Todos os anos</option></select></label>
+      <label>Entidade<select id="filtro-entidade"><option value="todas">Todas as entidades</option></select></label>
+      <label>Unidade<select id="filtro-unidade"><option value="todas">Todas as unidades</option></select></label>
+      <button id="limpar-filtros" type="button">Limpar filtros</button>
+    </section>
+
+    <section class="kpis" aria-label="Indicadores principais">
+      <article><p>Etanol utilizado</p><strong id="kpi-etanol">—</strong><span>litros na iniciativa</span></article>
+      <article class="primary-kpi"><p>CO₂e direto evitado</p><strong id="kpi-evitado">—</strong><span>estimativa central</span></article>
+      <article><p>Gasolina equivalente</p><strong id="kpi-gasolina">—</strong><span>litros para distância equivalente</span></article>
+      <article><p>Emissão no cenário realizado</p><strong id="kpi-real">—</strong><span>t CO₂e de CH₄ e N₂O</span></article>
+    </section>
+
+    <section class="analysis-grid" id="evolucao">
+      <article class="chart-panel">
+        <div class="section-heading"><div><p class="eyebrow">Evolução histórica</p><h2>Benefício ambiental por mês</h2></div><div class="chart-controls"><label for="grafico-ano">Ano do gráfico</label><select id="grafico-ano"><option value="2026">2026</option><option value="2025">2025</option><option value="2024">2024</option></select><span id="chart-total" class="chart-summary"></span></div></div>
+        <div id="chart-periodos" class="chart" role="img" aria-label="Gráfico de barras de CO₂e direto evitado por mês"></div>
+        <div class="legend"><span><i class="swatch historical"></i>Distribuição mensal estimada · ponderação ANP/MS</span></div>
+        <p id="chart-note" class="sensitivity-note"></p>
+        <details><summary>Dados equivalentes ao gráfico mensal</summary><</summary>div class="table-wrap" tabindex="0" aria-label="Tabela mensal rolável"><table><thead><tr><th>Mês</th><th>Etanol (L)</th><th>CO₂e evitado (t)</th></tr></thead><tbody id="monthly-body"></tbody></table></div></details></th></th>
+      </article>
+      <aside class="context-panel">
+        <p class="eyebrow">Como interpretar</p>
+        <h2>Comparação pelo mesmo serviço</h2>
+        <p>O painel não iguala um litro de etanol a um litro de gasolina. A equivalência considera a eficiência veicular publicada pelo Inmetro.</p>
+        <dl><div><dt>Cobertura PBE</dt><dd id="cobertura">—</dd></div><div><dt>Fronteira</dt><dd>Uso direto no veículo</dd></div><div><dt>Metodologia</dt><dd id="versao-metodologia">—</dd></div></dl>
+        <a href="#metodologia">Entenda o cálculo</a>
+      </aside>
+    </section>
+
+    <section class="entity-section">
+      <div class="section-heading"><div><p class="eyebrow">Distribuição institucional</p><h2>Contribuição por entidade</h2></div><p>Sem ranking negativo ou individualização de veículos.</p></div>
+      <div id="entity-bars" class="entity-bars"></div>
+    </section>
+
+    <section class="simulation-section" aria-labelledby="titulo-simulacao">
+      <div><p class="eyebrow">Acompanhamento</p><h2 id="titulo-simulacao">Atualização diária</h2><span class="badge-simulado">Dados simulados · separados do histórico</span></div>
+      <div id="simulation-state" class="simulation-state"><strong>Nenhum registro publicado no momento</strong></div>
+      <div class="table-wrap daily-table" tabindex="0" aria-label="Registros diários publicados"><table><thead><tr><th>Data</th><th>Entidade</th><th>Etanol (L)</th><th>CO₂e evitado (</th></th>t)</th><th>Orige</th></th></th>m</th></tr></thead><tbody id="daily-body"></tbody></table></div>
+    </section>
+
+    <section class="table-section" aria-labelledby="titulo-tabela">
+      <div class="section-heading"><div><p class="eyebrow">Totais históricos consolidados</p><h2 id="titulo-tabela">Resumo anual por entidade</h2></div></div>
+      <div class="table-wrap" tabindex="0" aria-label="Tabela rolável horizontalmente">
+        <table><thead><tr><th>Período</th><th>Entidade</th><th>Etanol (L)</th><th>Gasolina equivalente (L)</th><th>CO₂e evitado (t)</th></tr></thead><tbody id="table-body"></tbody></table>
+      </div>
+    </section>
+
+    <section class="methodology" id="metodologia">
+      <div class="method-intro"><p class="eyebrow">Metodologia 1.0</p><h2>Rastreável, versionada e limitada ao uso do veículo</h2><p>O indicador compara o cenário realizado com etanol e um cenário de referência com gasolina para a mesma distância estimada. Não é uma avaliação de ciclo de vida.</p></div>
+      <details><summary>Ver fórmula e critérios técnicos</summary><div class="details-grid"><div><h3>Fórmula central</h3><code>CO₂e evitado = CO₂e da gasolina equivalente − CO₂e do etanol</code><p>A gasolina equivalente deriva da razão de eficiência etanol/gasolina no PBE Veicular.</p></div><div><h3>Gases e convenções</h3><p>CO₂ fóssil, CH₄ e N₂O; CO₂ biogênico informado separadamente. GWP100 do IPCC AR5: CH₄ = 28 e N₂O = 265.</p></div><div><h3>Fontes</h3><ul><li>IPCC 2006 Guidelines, Volume 2</li><li>ANP — composição dos combustíveis</li><li>Inmetro — PBE Veicular 2024–2026</li></ul></div><div><h3>Limitações</h3><p>Totais agregados, eficiência laboratorial e cobertura parcial de modelos no PBE. O resultado é estimativa técnica, não inventário verificado.</p></div></div><p><a href="metodologia.html">Mais detalhes técnicos, exemplo numérico e referências completas →</a></p></details>
+    </section>
+  </main>
+
+  <footer><p>Projeto acadêmico independente · não é portal institucional oficial</p><p id="ultima-atualizacao">Carregando atualização…</p></footer>
+  <div id="erro-dados" class="error-banner" role="alert" hidden>Não foi possível carregar os indicadores. Tente novamente mais tarde.</div>
+</body>
+</html>

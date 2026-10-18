@@ -1,0 +1,6152 @@
+[
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 32.4586,
+    "etanol_l": 32.4586,
+    "gasolina_equivalente_l": 23.5949,
+    "co2e_evitado_kg": 33.594,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 32.5528,
+    "etanol_l": 32.5528,
+    "gasolina_equivalente_l": 23.6165,
+    "co2e_evitado_kg": 33.5849,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 31.3429,
+    "etanol_l": 31.3429,
+    "gasolina_equivalente_l": 22.3832,
+    "co2e_evitado_kg": 31.5714,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 137.4498,
+    "etanol_l": 137.4498,
+    "gasolina_equivalente_l": 99.3119,
+    "co2e_evitado_kg": 140.9353,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 125.518,
+    "etanol_l": 50.6582,
+    "gasolina_equivalente_l": 36.7516,
+    "co2e_evitado_kg": 52.2644,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "SENAI - AGENCIA SENAI SIDROLANDIA",
+    "volume_l": 47.2345,
+    "etanol_l": 47.2345,
+    "gasolina_equivalente_l": 34.2678,
+    "co2e_evitado_kg": 48.7321,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 126.4639,
+    "etanol_l": 29.1759,
+    "gasolina_equivalente_l": 21.2718,
+    "co2e_evitado_kg": 30.6035,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 32.8733,
+    "etanol_l": 32.8733,
+    "gasolina_equivalente_l": 23.8964,
+    "co2e_evitado_kg": 34.0232,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-19",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 374.0098,
+    "etanol_l": 29.1518,
+    "gasolina_equivalente_l": 21.6014,
+    "co2e_evitado_kg": 30.4922,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 39.8445,
+    "etanol_l": 39.8445,
+    "gasolina_equivalente_l": 28.9065,
+    "co2e_evitado_kg": 41.1078,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 52.1033,
+    "etanol_l": 42.2511,
+    "gasolina_equivalente_l": 30.1731,
+    "co2e_evitado_kg": 42.5592,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 69.0444,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 73.9448,
+    "etanol_l": 73.9448,
+    "gasolina_equivalente_l": 53.2226,
+    "co2e_evitado_kg": 75.3844,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 174.8453,
+    "etanol_l": 174.8453,
+    "gasolina_equivalente_l": 126.2713,
+    "co2e_evitado_kg": 179.1497,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 301.5212,
+    "etanol_l": 33.6968,
+    "gasolina_equivalente_l": 24.4464,
+    "co2e_evitado_kg": 34.7652,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 59.252,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 128.0795,
+    "etanol_l": 81.1461,
+    "gasolina_equivalente_l": 59.2018,
+    "co2e_evitado_kg": 84.2993,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 89.2062,
+    "etanol_l": 49.0565,
+    "gasolina_equivalente_l": 36.3508,
+    "co2e_evitado_kg": 51.3121,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 36.4041,
+    "etanol_l": 36.4041,
+    "gasolina_equivalente_l": 26.463,
+    "co2e_evitado_kg": 37.6775,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-20",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 161.5578,
+    "etanol_l": 124.6741,
+    "gasolina_equivalente_l": 91.1166,
+    "co2e_evitado_kg": 129.3001,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 38.2549,
+    "etanol_l": 38.2549,
+    "gasolina_equivalente_l": 28.0512,
+    "co2e_evitado_kg": 39.9891,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 66.7862,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 49.5804,
+    "etanol_l": 49.5804,
+    "gasolina_equivalente_l": 36.0411,
+    "co2e_evitado_kg": 51.3147,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 43.8513,
+    "etanol_l": 43.8513,
+    "gasolina_equivalente_l": 31.8133,
+    "co2e_evitado_kg": 45.2417,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 88.68,
+    "etanol_l": 88.68,
+    "gasolina_equivalente_l": 63.7831,
+    "co2e_evitado_kg": 90.3023,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 32.1697,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 47.2174,
+    "etanol_l": 47.2174,
+    "gasolina_equivalente_l": 34.2554,
+    "co2e_evitado_kg": 48.7145,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 112.9571,
+    "etanol_l": 55.9289,
+    "gasolina_equivalente_l": 40.5754,
+    "co2e_evitado_kg": 57.7022,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 220.5503,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 56.9428,
+    "etanol_l": 56.9428,
+    "gasolina_equivalente_l": 42.1945,
+    "co2e_evitado_kg": 59.561,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 38.2194,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 86.5726,
+    "etanol_l": 86.5726,
+    "gasolina_equivalente_l": 63.0355,
+    "co2e_evitado_kg": 90.27,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 81.9824,
+    "etanol_l": 80.6331,
+    "gasolina_equivalente_l": 58.5611,
+    "co2e_evitado_kg": 83.3333,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-21",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 307.8845,
+    "etanol_l": 46.4285,
+    "gasolina_equivalente_l": 33.7499,
+    "co2e_evitado_kg": 48.0525,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 33.0242,
+    "etanol_l": 33.0242,
+    "gasolina_equivalente_l": 24.0061,
+    "co2e_evitado_kg": 34.1794,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 91.4448,
+    "etanol_l": 43.0943,
+    "gasolina_equivalente_l": 31.5998,
+    "co2e_evitado_kg": 45.0479,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 38.1906,
+    "etanol_l": 38.1906,
+    "gasolina_equivalente_l": 27.7066,
+    "co2e_evitado_kg": 39.4015,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 29.6172,
+    "etanol_l": 29.6172,
+    "gasolina_equivalente_l": 21.5294,
+    "co2e_evitado_kg": 30.6532,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 73.4923,
+    "etanol_l": 69.2999,
+    "gasolina_equivalente_l": 50.3999,
+    "co2e_evitado_kg": 72.09,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 7.3452,
+    "etanol_l": 7.3452,
+    "gasolina_equivalente_l": 5.3288,
+    "co2e_evitado_kg": 7.5781,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 39.9249,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 61.012,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 67.5818,
+    "etanol_l": 67.477,
+    "gasolina_equivalente_l": 48.5735,
+    "co2e_evitado_kg": 68.7989,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 127.3363,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 45.7814,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 50.6988,
+    "etanol_l": 50.6988,
+    "gasolina_equivalente_l": 37.5677,
+    "co2e_evitado_kg": 53.0299,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 47.4331,
+    "etanol_l": 47.4331,
+    "gasolina_equivalente_l": 34.4802,
+    "co2e_evitado_kg": 49.0923,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-22",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 243.0782,
+    "etanol_l": 137.3918,
+    "gasolina_equivalente_l": 100.2565,
+    "co2e_evitado_kg": 142.3965,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 49.1545,
+    "etanol_l": 49.1545,
+    "gasolina_equivalente_l": 35.6607,
+    "co2e_evitado_kg": 50.713,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 55.8363,
+    "etanol_l": 55.8363,
+    "gasolina_equivalente_l": 40.5887,
+    "co2e_evitado_kg": 57.7894,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 75.3276,
+    "etanol_l": 75.3276,
+    "gasolina_equivalente_l": 54.1878,
+    "co2e_evitado_kg": 76.7238,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "SENAI - AGENCIA SENAI SIDROLANDIA",
+    "volume_l": 51.7652,
+    "etanol_l": 51.7652,
+    "gasolina_equivalente_l": 37.6293,
+    "co2e_evitado_kg": 53.5759,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 43.2876,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 56.7474,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 51.1786,
+    "etanol_l": 51.1786,
+    "gasolina_equivalente_l": 37.1291,
+    "co2e_evitado_kg": 52.8013,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 36.6914,
+    "etanol_l": 36.6914,
+    "gasolina_equivalente_l": 27.1883,
+    "co2e_evitado_kg": 38.3785,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 55.7846,
+    "etanol_l": 55.7846,
+    "gasolina_equivalente_l": 41.3363,
+    "co2e_evitado_kg": 58.3496,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 11.8564,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 40.5306,
+    "etanol_l": 40.5306,
+    "gasolina_equivalente_l": 30.0331,
+    "co2e_evitado_kg": 42.3942,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-23",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 168.6532,
+    "etanol_l": 52.6106,
+    "gasolina_equivalente_l": 38.168,
+    "co2e_evitado_kg": 54.2787,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-24",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 129.2937,
+    "etanol_l": 97.0854,
+    "gasolina_equivalente_l": 70.0319,
+    "co2e_evitado_kg": 99.3083,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-24",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 111.4923,
+    "etanol_l": 56.4154,
+    "gasolina_equivalente_l": 41.8037,
+    "co2e_evitado_kg": 59.0094,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-24",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 46.042,
+    "etanol_l": 46.042,
+    "gasolina_equivalente_l": 33.5687,
+    "co2e_evitado_kg": 48.2949,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-24",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 39.2549,
+    "etanol_l": 39.2549,
+    "gasolina_equivalente_l": 28.5353,
+    "co2e_evitado_kg": 40.628,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-25",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 29.5028,
+    "etanol_l": 29.5028,
+    "gasolina_equivalente_l": 21.4037,
+    "co2e_evitado_kg": 30.4382,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-25",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 62.2154,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-25",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 39.554,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-25",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 57.3976,
+    "etanol_l": 57.3976,
+    "gasolina_equivalente_l": 41.7236,
+    "co2e_evitado_kg": 59.4053,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-25",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 37.9186,
+    "etanol_l": 37.9186,
+    "gasolina_equivalente_l": 28.0976,
+    "co2e_evitado_kg": 39.6621,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 55.6556,
+    "etanol_l": 55.6556,
+    "gasolina_equivalente_l": 40.3771,
+    "co2e_evitado_kg": 57.4202,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 34.0939,
+    "etanol_l": 34.0939,
+    "gasolina_equivalente_l": 25.0001,
+    "co2e_evitado_kg": 35.6395,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 28.0658,
+    "etanol_l": 28.0658,
+    "gasolina_equivalente_l": 20.3612,
+    "co2e_evitado_kg": 28.9557,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 52.7667,
+    "etanol_l": 52.7667,
+    "gasolina_equivalente_l": 38.2813,
+    "co2e_evitado_kg": 54.4397,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 38.3915,
+    "etanol_l": 38.3915,
+    "gasolina_equivalente_l": 27.9077,
+    "co2e_evitado_kg": 39.7344,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 133.4804,
+    "etanol_l": 67.2797,
+    "gasolina_equivalente_l": 48.4877,
+    "co2e_evitado_kg": 68.7187,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 89.7049,
+    "etanol_l": 49.3674,
+    "gasolina_equivalente_l": 35.9932,
+    "co2e_evitado_kg": 51.783,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SENAI",
+    "unidade": "SENAI - AGENCIA SENAI SIDROLANDIA",
+    "volume_l": 73.5494,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 35.9157,
+    "etanol_l": 35.9157,
+    "gasolina_equivalente_l": 26.6135,
+    "co2e_evitado_kg": 37.5671,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Aparecida do Taboado",
+    "volume_l": 37.4264,
+    "etanol_l": 37.4264,
+    "gasolina_equivalente_l": 27.2061,
+    "co2e_evitado_kg": 38.7355,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 65.8258,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 32.6756,
+    "etanol_l": 32.6756,
+    "gasolina_equivalente_l": 23.7526,
+    "co2e_evitado_kg": 33.8186,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 96.8039,
+    "etanol_l": 96.8039,
+    "gasolina_equivalente_l": 71.0003,
+    "co2e_evitado_kg": 100.6834,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-26",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 319.2599,
+    "etanol_l": 106.9852,
+    "gasolina_equivalente_l": 78.3131,
+    "co2e_evitado_kg": 111.0463,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "FIEMS",
+    "unidade": "FIEMS",
+    "volume_l": 33.5691,
+    "etanol_l": 33.5691,
+    "gasolina_equivalente_l": 24.3538,
+    "co2e_evitado_kg": 34.6334,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 19.9151,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 40.4274,
+    "etanol_l": 40.4274,
+    "gasolina_equivalente_l": 29.3876,
+    "co2e_evitado_kg": 41.8415,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 28.7877,
+    "etanol_l": 28.7877,
+    "gasolina_equivalente_l": 20.5584,
+    "co2e_evitado_kg": 28.9976,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 45.9716,
+    "etanol_l": 41.8439,
+    "gasolina_equivalente_l": 29.8823,
+    "co2e_evitado_kg": 42.149,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 37.0032,
+    "etanol_l": 37.0032,
+    "gasolina_equivalente_l": 26.4254,
+    "co2e_evitado_kg": 37.273,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 208.6578,
+    "etanol_l": 53.7084,
+    "gasolina_equivalente_l": 38.9645,
+    "co2e_evitado_kg": 55.4113,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 35.5621,
+    "etanol_l": 35.5621,
+    "gasolina_equivalente_l": 25.3962,
+    "co2e_evitado_kg": 35.8214,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 30.4712,
+    "etanol_l": 30.4712,
+    "gasolina_equivalente_l": 22.1063,
+    "co2e_evitado_kg": 31.4373,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 49.5483,
+    "etanol_l": 49.5483,
+    "gasolina_equivalente_l": 36.7152,
+    "co2e_evitado_kg": 51.8265,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 2.0962,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 59.7263,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-27",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 277.2971,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 41.8876,
+    "etanol_l": 41.8876,
+    "gasolina_equivalente_l": 30.4491,
+    "co2e_evitado_kg": 43.3528,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 140.0819,
+    "etanol_l": 93.4697,
+    "gasolina_equivalente_l": 67.2691,
+    "co2e_evitado_kg": 95.2679,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 5.6738,
+    "etanol_l": 5.6738,
+    "gasolina_equivalente_l": 4.1367,
+    "co2e_evitado_kg": 5.9514,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 41.5637,
+    "etanol_l": 41.5637,
+    "gasolina_equivalente_l": 30.3036,
+    "co2e_evitado_kg": 43.5975,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 32.1045,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 55.6613,
+    "etanol_l": 55.6613,
+    "gasolina_equivalente_l": 40.3813,
+    "co2e_evitado_kg": 57.4261,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 138.2852,
+    "etanol_l": 29.11,
+    "gasolina_equivalente_l": 21.2238,
+    "co2e_evitado_kg": 30.5344,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "SENAI - AGENCIA SENAI SIDROLANDIA",
+    "volume_l": 56.8629,
+    "etanol_l": 56.8629,
+    "gasolina_equivalente_l": 41.3349,
+    "co2e_evitado_kg": 58.8519,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 41.3772,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 193.9909,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 81.4117,
+    "etanol_l": 52.4707,
+    "gasolina_equivalente_l": 37.6657,
+    "co2e_evitado_kg": 53.2716,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 34.2918,
+    "etanol_l": 34.2918,
+    "gasolina_equivalente_l": 24.8781,
+    "co2e_evitado_kg": 35.3791,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 34.5268,
+    "etanol_l": 34.5268,
+    "gasolina_equivalente_l": 25.5843,
+    "co2e_evitado_kg": 36.1143,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 47.5525,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 49.7342,
+    "etanol_l": 49.7342,
+    "gasolina_equivalente_l": 36.1529,
+    "co2e_evitado_kg": 51.4739,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-28",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 136.984,
+    "etanol_l": 89.4947,
+    "gasolina_equivalente_l": 65.6437,
+    "co2e_evitado_kg": 93.7761,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 33.0817,
+    "etanol_l": 33.0817,
+    "gasolina_equivalente_l": 24.0002,
+    "co2e_evitado_kg": 34.1306,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 65.047,
+    "etanol_l": 65.047,
+    "gasolina_equivalente_l": 47.6113,
+    "co2e_evitado_kg": 68.0696,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 53.0751,
+    "etanol_l": 53.0751,
+    "gasolina_equivalente_l": 38.9184,
+    "co2e_evitado_kg": 55.4812,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 96.3387,
+    "etanol_l": 28.7751,
+    "gasolina_equivalente_l": 20.5494,
+    "co2e_evitado_kg": 28.9849,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 91.0149,
+    "etanol_l": 91.0149,
+    "gasolina_equivalente_l": 65.3781,
+    "co2e_evitado_kg": 92.4984,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 95.4359,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "SENAI - AGENCIA SENAI SIDROLANDIA",
+    "volume_l": 43.6382,
+    "etanol_l": 43.6382,
+    "gasolina_equivalente_l": 31.7216,
+    "co2e_evitado_kg": 45.1646,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 32.1704,
+    "etanol_l": 32.1704,
+    "gasolina_equivalente_l": 23.339,
+    "co2e_evitado_kg": 33.1904,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 78.5293,
+    "etanol_l": 48.0125,
+    "gasolina_equivalente_l": 35.4879,
+    "co2e_evitado_kg": 50.0081,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 46.0773,
+    "etanol_l": 46.0773,
+    "gasolina_equivalente_l": 33.4946,
+    "co2e_evitado_kg": 47.689,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 65.325,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 42.7602,
+    "etanol_l": 42.7602,
+    "gasolina_equivalente_l": 31.0834,
+    "co2e_evitado_kg": 44.2559,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 41.9264,
+    "etanol_l": 41.9264,
+    "gasolina_equivalente_l": 30.4773,
+    "co2e_evitado_kg": 43.3929,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-29",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 238.1193,
+    "etanol_l": 51.6825,
+    "gasolina_equivalente_l": 37.4947,
+    "co2e_evitado_kg": 53.3211,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 33.4166,
+    "etanol_l": 33.4166,
+    "gasolina_equivalente_l": 24.2913,
+    "co2e_evitado_kg": 34.5855,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 79.8321,
+    "etanol_l": 79.8321,
+    "gasolina_equivalente_l": 57.6334,
+    "co2e_evitado_kg": 81.7618,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 93.6235,
+    "etanol_l": 93.6235,
+    "gasolina_equivalente_l": 67.9222,
+    "co2e_evitado_kg": 96.5919,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 184.2328,
+    "etanol_l": 72.0184,
+    "gasolina_equivalente_l": 52.248,
+    "co2e_evitado_kg": 74.3018,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 94.8418,
+    "etanol_l": 27.1255,
+    "gasolina_equivalente_l": 19.275,
+    "co2e_evitado_kg": 27.1573,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 62.4223,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 33.5728,
+    "etanol_l": 33.5728,
+    "gasolina_equivalente_l": 24.3565,
+    "co2e_evitado_kg": 34.6373,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 50.9322,
+    "etanol_l": 50.9322,
+    "gasolina_equivalente_l": 36.9504,
+    "co2e_evitado_kg": 52.5471,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 105.4152,
+    "etanol_l": 47.428,
+    "gasolina_equivalente_l": 34.4765,
+    "co2e_evitado_kg": 49.087,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 33.053,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 42.2922,
+    "etanol_l": 42.2922,
+    "gasolina_equivalente_l": 30.7432,
+    "co2e_evitado_kg": 43.7715,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 46.2491,
+    "etanol_l": 46.2491,
+    "gasolina_equivalente_l": 34.2705,
+    "co2e_evitado_kg": 48.3756,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-30",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 374.6445,
+    "etanol_l": 180.0569,
+    "gasolina_equivalente_l": 131.5768,
+    "co2e_evitado_kg": 187.4316,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 72.6612,
+    "etanol_l": 72.6612,
+    "gasolina_equivalente_l": 52.415,
+    "co2e_evitado_kg": 74.2346,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 56.6371,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 49.4519,
+    "etanol_l": 49.4519,
+    "gasolina_equivalente_l": 35.8765,
+    "co2e_evitado_kg": 51.0198,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 29.9,
+    "etanol_l": 29.9,
+    "gasolina_equivalente_l": 22.1558,
+    "co2e_evitado_kg": 31.2748,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 40.9863,
+    "etanol_l": 40.9863,
+    "gasolina_equivalente_l": 29.7939,
+    "co2e_evitado_kg": 42.42,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 33.448,
+    "etanol_l": 33.448,
+    "gasolina_equivalente_l": 24.3141,
+    "co2e_evitado_kg": 34.618,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-10-31",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 47.494,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-01",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 59.4898,
+    "etanol_l": 59.4898,
+    "gasolina_equivalente_l": 43.1588,
+    "co2e_evitado_kg": 61.376,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-01",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 33.5888,
+    "etanol_l": 33.5888,
+    "gasolina_equivalente_l": 24.3681,
+    "co2e_evitado_kg": 34.6538,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-01",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 116.2731,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-01",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 26.8696,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-01",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 47.7885,
+    "etanol_l": 47.7885,
+    "gasolina_equivalente_l": 34.7386,
+    "co2e_evitado_kg": 49.4601,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 1.0481,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 48.5036,
+    "etanol_l": 48.5036,
+    "gasolina_equivalente_l": 34.6383,
+    "co2e_evitado_kg": 48.8573,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 184.8252,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 36.5999,
+    "etanol_l": 36.5999,
+    "gasolina_equivalente_l": 26.1374,
+    "co2e_evitado_kg": 36.8668,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 51.6995,
+    "etanol_l": 51.6995,
+    "gasolina_equivalente_l": 37.5816,
+    "co2e_evitado_kg": 53.5079,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 56.8107,
+    "etanol_l": 56.8107,
+    "gasolina_equivalente_l": 41.297,
+    "co2e_evitado_kg": 58.7979,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-02",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 229.5647,
+    "etanol_l": 58.9139,
+    "gasolina_equivalente_l": 42.741,
+    "co2e_evitado_kg": 60.7818,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "FIEMS",
+    "unidade": "FIEMS",
+    "volume_l": 35.9443,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 44.8296,
+    "etanol_l": 44.8296,
+    "gasolina_equivalente_l": 32.8722,
+    "co2e_evitado_kg": 46.8619,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 78.5434,
+    "etanol_l": 78.5434,
+    "gasolina_equivalente_l": 56.6219,
+    "co2e_evitado_kg": 80.2591,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 49.1321,
+    "etanol_l": 49.1321,
+    "gasolina_equivalente_l": 35.6445,
+    "co2e_evitado_kg": 50.6899,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 106.4015,
+    "etanol_l": 34.0194,
+    "gasolina_equivalente_l": 24.6805,
+    "co2e_evitado_kg": 35.098,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 71.4676,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 53.0958,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 57.3318,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 41.1248,
+    "etanol_l": 41.1248,
+    "gasolina_equivalente_l": 30.4734,
+    "co2e_evitado_kg": 43.0157,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 30.5502,
+    "etanol_l": 30.5502,
+    "gasolina_equivalente_l": 22.2738,
+    "co2e_evitado_kg": 32.0451,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-03",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 190.2204,
+    "etanol_l": 44.193,
+    "gasolina_equivalente_l": 32.0612,
+    "co2e_evitado_kg": 45.5942,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 32.2283,
+    "etanol_l": 32.2283,
+    "gasolina_equivalente_l": 23.6321,
+    "co2e_evitado_kg": 33.6893,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 53.2075,
+    "etanol_l": 53.2075,
+    "gasolina_equivalente_l": 38.6011,
+    "co2e_evitado_kg": 54.8945,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 40.1627,
+    "etanol_l": 40.1627,
+    "gasolina_equivalente_l": 29.4501,
+    "co2e_evitado_kg": 41.9834,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 113.2116,
+    "etanol_l": 34.2026,
+    "gasolina_equivalente_l": 24.4254,
+    "co2e_evitado_kg": 34.452,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 74.775,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 25.636,
+    "etanol_l": 25.636,
+    "gasolina_equivalente_l": 18.6909,
+    "co2e_evitado_kg": 26.8904,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 74.9985,
+    "etanol_l": 74.9985,
+    "gasolina_equivalente_l": 54.1551,
+    "co2e_evitado_kg": 76.7299,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 185.6527,
+    "etanol_l": 181.7906,
+    "gasolina_equivalente_l": 131.8858,
+    "co2e_evitado_kg": 187.5545,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 130.2945,
+    "etanol_l": 130.2945,
+    "gasolina_equivalente_l": 94.1705,
+    "co2e_evitado_kg": 133.6661,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 81.7383,
+    "etanol_l": 81.7383,
+    "gasolina_equivalente_l": 58.7857,
+    "co2e_evitado_kg": 83.2237,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 59.6743,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 92.7391,
+    "etanol_l": 92.7391,
+    "gasolina_equivalente_l": 67.5307,
+    "co2e_evitado_kg": 96.7339,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 31.1433,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-04",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 218.1358,
+    "etanol_l": 91.7838,
+    "gasolina_equivalente_l": 67.4771,
+    "co2e_evitado_kg": 95.5862,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 31.091,
+    "etanol_l": 31.091,
+    "gasolina_equivalente_l": 22.7981,
+    "co2e_evitado_kg": 32.5005,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 44.8376,
+    "etanol_l": 44.8376,
+    "gasolina_equivalente_l": 32.5289,
+    "co2e_evitado_kg": 46.2592,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 38.8785,
+    "etanol_l": 38.8785,
+    "gasolina_equivalente_l": 27.7646,
+    "co2e_evitado_kg": 39.162,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 47.0971,
+    "etanol_l": 47.0971,
+    "gasolina_equivalente_l": 34.236,
+    "co2e_evitado_kg": 48.7445,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 47.2904,
+    "etanol_l": 47.2904,
+    "gasolina_equivalente_l": 34.3083,
+    "co2e_evitado_kg": 48.7898,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 26.1634,
+    "etanol_l": 26.1634,
+    "gasolina_equivalente_l": 19.3384,
+    "co2e_evitado_kg": 27.2508,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 45.0631,
+    "etanol_l": 45.0631,
+    "gasolina_equivalente_l": 32.6925,
+    "co2e_evitado_kg": 46.4919,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Aparecida do Taboado",
+    "volume_l": 42.0452,
+    "etanol_l": 42.0452,
+    "gasolina_equivalente_l": 30.5636,
+    "co2e_evitado_kg": 43.5159,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 39.0036,
+    "etanol_l": 39.0036,
+    "gasolina_equivalente_l": 28.9016,
+    "co2e_evitado_kg": 40.797,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 43.2938,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 48.0015,
+    "etanol_l": 48.0015,
+    "gasolina_equivalente_l": 34.8934,
+    "co2e_evitado_kg": 49.6805,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-05",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 206.0814,
+    "etanol_l": 30.0281,
+    "gasolina_equivalente_l": 21.8281,
+    "co2e_evitado_kg": 31.0785,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 31.7366,
+    "etanol_l": 31.7366,
+    "gasolina_equivalente_l": 22.6643,
+    "co2e_evitado_kg": 31.968,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 49.87,
+    "etanol_l": 49.87,
+    "gasolina_equivalente_l": 35.6141,
+    "co2e_evitado_kg": 50.2336,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 9.3875,
+    "etanol_l": 9.3875,
+    "gasolina_equivalente_l": 6.8105,
+    "co2e_evitado_kg": 9.6851,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 66.7347,
+    "etanol_l": 54.2538,
+    "gasolina_equivalente_l": 38.7447,
+    "co2e_evitado_kg": 54.6494,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 91.4885,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 196.1386,
+    "etanol_l": 128.6005,
+    "gasolina_equivalente_l": 92.7169,
+    "co2e_evitado_kg": 131.4286,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 41.4885,
+    "etanol_l": 41.4885,
+    "gasolina_equivalente_l": 30.1589,
+    "co2e_evitado_kg": 42.9397,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 32.8738,
+    "etanol_l": 32.8738,
+    "gasolina_equivalente_l": 23.8967,
+    "co2e_evitado_kg": 34.0237,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-06",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 191.159,
+    "etanol_l": 88.1981,
+    "gasolina_equivalente_l": 64.5385,
+    "co2e_evitado_kg": 91.5027,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-07",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 33.3468,
+    "etanol_l": 33.3468,
+    "gasolina_equivalente_l": 24.7099,
+    "co2e_evitado_kg": 34.8801,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-08",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 65.9001,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-08",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 28.8772,
+    "etanol_l": 28.8772,
+    "gasolina_equivalente_l": 20.9915,
+    "co2e_evitado_kg": 29.8873,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-08",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 49.9206,
+    "etanol_l": 49.9206,
+    "gasolina_equivalente_l": 36.2884,
+    "co2e_evitado_kg": 51.6668,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-08",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 37.9141,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 61.1536,
+    "etanol_l": 61.1536,
+    "gasolina_equivalente_l": 44.454,
+    "co2e_evitado_kg": 63.2927,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 47.3312,
+    "etanol_l": 47.3312,
+    "gasolina_equivalente_l": 34.4061,
+    "co2e_evitado_kg": 48.9868,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 40.4924,
+    "etanol_l": 36.2371,
+    "gasolina_equivalente_l": 26.2894,
+    "co2e_evitado_kg": 37.386,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 49.5088,
+    "etanol_l": 49.5088,
+    "gasolina_equivalente_l": 35.9891,
+    "co2e_evitado_kg": 51.2406,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 33.6049,
+    "etanol_l": 33.6049,
+    "gasolina_equivalente_l": 24.3797,
+    "co2e_evitado_kg": 34.6704,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 128.0382,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 90.4876,
+    "etanol_l": 29.9221,
+    "gasolina_equivalente_l": 21.7079,
+    "co2e_evitado_kg": 30.8708,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 43.7115,
+    "etanol_l": 43.7115,
+    "gasolina_equivalente_l": 31.7749,
+    "co2e_evitado_kg": 45.2405,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Naviraí",
+    "volume_l": 39.4678,
+    "etanol_l": 39.4678,
+    "gasolina_equivalente_l": 28.6901,
+    "co2e_evitado_kg": 40.8483,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 37.4449,
+    "etanol_l": 37.4449,
+    "gasolina_equivalente_l": 27.3006,
+    "co2e_evitado_kg": 39.2771,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-09",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 170.1704,
+    "etanol_l": 170.1704,
+    "gasolina_equivalente_l": 124.0825,
+    "co2e_evitado_kg": 176.1426,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 77.6237,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 39.5942,
+    "etanol_l": 39.5942,
+    "gasolina_equivalente_l": 29.0333,
+    "co2e_evitado_kg": 41.3892,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 37.6676,
+    "etanol_l": 37.6676,
+    "gasolina_equivalente_l": 27.3814,
+    "co2e_evitado_kg": 38.9852,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 104.3574,
+    "etanol_l": 51.3207,
+    "gasolina_equivalente_l": 37.632,
+    "co2e_evitado_kg": 53.6473,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 135.5282,
+    "etanol_l": 56.8982,
+    "gasolina_equivalente_l": 41.2786,
+    "co2e_evitado_kg": 58.7022,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 63.2887,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 54.8636,
+    "etanol_l": 46.4452,
+    "gasolina_equivalente_l": 33.1683,
+    "co2e_evitado_kg": 46.7838,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 75.8278,
+    "etanol_l": 30.8849,
+    "gasolina_equivalente_l": 22.4064,
+    "co2e_evitado_kg": 31.8641,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 86.1163,
+    "etanol_l": 86.1163,
+    "gasolina_equivalente_l": 62.6657,
+    "co2e_evitado_kg": 89.5526,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 50.2011,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 46.2802,
+    "etanol_l": 46.2802,
+    "gasolina_equivalente_l": 33.6421,
+    "co2e_evitado_kg": 47.899,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 40.3006,
+    "etanol_l": 40.3006,
+    "gasolina_equivalente_l": 29.2954,
+    "co2e_evitado_kg": 41.7103,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-10",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 76.7437,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 82.0738,
+    "etanol_l": 82.0738,
+    "gasolina_equivalente_l": 59.61,
+    "co2e_evitado_kg": 84.828,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 46.9423,
+    "etanol_l": 46.9423,
+    "gasolina_equivalente_l": 33.5233,
+    "co2e_evitado_kg": 47.2846,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 98.5768,
+    "etanol_l": 56.9879,
+    "gasolina_equivalente_l": 41.4258,
+    "co2e_evitado_kg": 58.9813,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 131.4996,
+    "etanol_l": 131.4996,
+    "gasolina_equivalente_l": 95.4006,
+    "co2e_evitado_kg": 135.6689,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 38.7637,
+    "etanol_l": 38.7637,
+    "gasolina_equivalente_l": 28.1224,
+    "co2e_evitado_kg": 39.9927,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 46.5651,
+    "etanol_l": 46.5651,
+    "gasolina_equivalente_l": 33.7821,
+    "co2e_evitado_kg": 48.0415,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 40.5622,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 37.905,
+    "etanol_l": 37.905,
+    "gasolina_equivalente_l": 27.554,
+    "co2e_evitado_kg": 39.2309,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 45.6594,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-11",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 244.1347,
+    "etanol_l": 28.602,
+    "gasolina_equivalente_l": 21.194,
+    "co2e_evitado_kg": 29.9171,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 58.3841,
+    "etanol_l": 58.3841,
+    "gasolina_equivalente_l": 42.4407,
+    "co2e_evitado_kg": 60.4263,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 43.8931,
+    "etanol_l": 43.8931,
+    "gasolina_equivalente_l": 31.3457,
+    "co2e_evitado_kg": 44.2131,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 44.4148,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 49.8413,
+    "etanol_l": 49.8413,
+    "gasolina_equivalente_l": 36.2308,
+    "co2e_evitado_kg": 51.5847,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 71.3159,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 64.1432,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 34.4141,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 48.5918,
+    "etanol_l": 48.5918,
+    "gasolina_equivalente_l": 34.7013,
+    "co2e_evitado_kg": 48.9461,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 29.3242,
+    "etanol_l": 29.3242,
+    "gasolina_equivalente_l": 21.7292,
+    "co2e_evitado_kg": 30.6725,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 42.7824,
+    "etanol_l": 42.7824,
+    "gasolina_equivalente_l": 31.7017,
+    "co2e_evitado_kg": 44.7495,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 30.6874,
+    "etanol_l": 30.6874,
+    "gasolina_equivalente_l": 22.3738,
+    "co2e_evitado_kg": 32.189,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 51.9895,
+    "etanol_l": 51.9895,
+    "gasolina_equivalente_l": 37.7924,
+    "co2e_evitado_kg": 53.808,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-12",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 82.1942,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 81.9791,
+    "etanol_l": 81.9791,
+    "gasolina_equivalente_l": 59.6109,
+    "co2e_evitado_kg": 85.2305,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 28.6375,
+    "etanol_l": 28.6375,
+    "gasolina_equivalente_l": 20.776,
+    "co2e_evitado_kg": 29.5455,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 36.8733,
+    "etanol_l": 36.8733,
+    "gasolina_equivalente_l": 26.804,
+    "co2e_evitado_kg": 38.1631,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 109.2846,
+    "etanol_l": 109.2846,
+    "gasolina_equivalente_l": 78.8752,
+    "co2e_evitado_kg": 111.8697,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 87.4673,
+    "etanol_l": 43.4112,
+    "gasolina_equivalente_l": 31.494,
+    "co2e_evitado_kg": 44.7876,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 67.2639,
+    "etanol_l": 31.4395,
+    "gasolina_equivalente_l": 22.9222,
+    "co2e_evitado_kg": 32.9779,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 63.5999,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-13",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 179.039,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 36.4351,
+    "etanol_l": 36.4351,
+    "gasolina_equivalente_l": 26.0197,
+    "co2e_evitado_kg": 36.7008,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 56.3933,
+    "etanol_l": 56.3933,
+    "gasolina_equivalente_l": 40.9123,
+    "co2e_evitado_kg": 58.1813,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 79.237,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 51.2305,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 26.0812,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 51.5255,
+    "etanol_l": 51.5255,
+    "gasolina_equivalente_l": 37.4551,
+    "co2e_evitado_kg": 53.3278,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-14",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 49.0337,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-15",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 33.0322,
+    "etanol_l": 33.0322,
+    "gasolina_equivalente_l": 23.5895,
+    "co2e_evitado_kg": 33.273,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-15",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 37.2403,
+    "etanol_l": 37.2403,
+    "gasolina_equivalente_l": 27.0172,
+    "co2e_evitado_kg": 38.421,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-15",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 44.2035,
+    "etanol_l": 44.2035,
+    "gasolina_equivalente_l": 32.1325,
+    "co2e_evitado_kg": 45.7497,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-15",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 41.2283,
+    "etanol_l": 41.2283,
+    "gasolina_equivalente_l": 29.9698,
+    "co2e_evitado_kg": 42.6704,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-15",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 74.791,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 46.2775,
+    "etanol_l": 46.2775,
+    "gasolina_equivalente_l": 33.6402,
+    "co2e_evitado_kg": 47.8962,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 32.3003,
+    "etanol_l": 32.3003,
+    "gasolina_equivalente_l": 23.5498,
+    "co2e_evitado_kg": 33.8808,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 39.2215,
+    "etanol_l": 39.2215,
+    "gasolina_equivalente_l": 28.4545,
+    "co2e_evitado_kg": 40.4651,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 44.9971,
+    "etanol_l": 44.9971,
+    "gasolina_equivalente_l": 32.1341,
+    "co2e_evitado_kg": 45.3252,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 67.2494,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 166.2539,
+    "etanol_l": 95.0486,
+    "gasolina_equivalente_l": 69.0924,
+    "co2e_evitado_kg": 98.7136,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 52.5617,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 42.9592,
+    "etanol_l": 42.9592,
+    "gasolina_equivalente_l": 31.1661,
+    "co2e_evitado_kg": 44.3213,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 89.4884,
+    "etanol_l": 89.4884,
+    "gasolina_equivalente_l": 65.1661,
+    "co2e_evitado_kg": 93.3591,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-16",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 384.7574,
+    "etanol_l": 127.3987,
+    "gasolina_equivalente_l": 93.0659,
+    "co2e_evitado_kg": 132.1418,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 36.4448,
+    "etanol_l": 36.4448,
+    "gasolina_equivalente_l": 26.0266,
+    "co2e_evitado_kg": 36.7105,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 43.9298,
+    "etanol_l": 43.9298,
+    "gasolina_equivalente_l": 31.8703,
+    "co2e_evitado_kg": 45.3226,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 68.0474,
+    "etanol_l": 68.0474,
+    "gasolina_equivalente_l": 49.4073,
+    "co2e_evitado_kg": 70.296,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 39.6106,
+    "etanol_l": 35.4182,
+    "gasolina_equivalente_l": 25.6953,
+    "co2e_evitado_kg": 36.5412,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 44.1662,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 154.8874,
+    "etanol_l": 86.8285,
+    "gasolina_equivalente_l": 63.1139,
+    "co2e_evitado_kg": 90.1612,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 45.9674,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 83.9957,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 43.6891,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 41.8875,
+    "etanol_l": 41.8875,
+    "gasolina_equivalente_l": 31.0386,
+    "co2e_evitado_kg": 43.8135,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 46.9261,
+    "etanol_l": 42.5555,
+    "gasolina_equivalente_l": 30.9346,
+    "co2e_evitado_kg": 44.044,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 37.9205,
+    "etanol_l": 37.9205,
+    "gasolina_equivalente_l": 27.5653,
+    "co2e_evitado_kg": 39.2469,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-17",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 66.902,
+    "etanol_l": 31.2182,
+    "gasolina_equivalente_l": 22.6482,
+    "co2e_evitado_kg": 32.208,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 50.9277,
+    "etanol_l": 50.9277,
+    "gasolina_equivalente_l": 37.0205,
+    "co2e_evitado_kg": 52.7091,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 96.2759,
+    "etanol_l": 46.2909,
+    "gasolina_equivalente_l": 33.0581,
+    "co2e_evitado_kg": 46.6284,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 36.5093,
+    "etanol_l": 36.5093,
+    "gasolina_equivalente_l": 26.0727,
+    "co2e_evitado_kg": 36.7755,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 30.5928,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 32.8711,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 106.6395,
+    "etanol_l": 106.6395,
+    "gasolina_equivalente_l": 77.365,
+    "co2e_evitado_kg": 110.0206,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 106.8544,
+    "etanol_l": 37.1553,
+    "gasolina_equivalente_l": 26.9555,
+    "co2e_evitado_kg": 38.3333,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 73.0688,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 116.8847,
+    "etanol_l": 116.8847,
+    "gasolina_equivalente_l": 84.2579,
+    "co2e_evitado_kg": 119.4288,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 143.0222,
+    "etanol_l": 143.0222,
+    "gasolina_equivalente_l": 103.7053,
+    "co2e_evitado_kg": 146.6688,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 64.2109,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 40.6804,
+    "etanol_l": 40.6804,
+    "gasolina_equivalente_l": 29.5715,
+    "co2e_evitado_kg": 42.1034,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-18",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 239.4786,
+    "etanol_l": 35.0854,
+    "gasolina_equivalente_l": 25.4538,
+    "co2e_evitado_kg": 36.1978,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 70.607,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 31.6506,
+    "etanol_l": 31.6506,
+    "gasolina_equivalente_l": 23.0075,
+    "co2e_evitado_kg": 32.7577,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 54.0063,
+    "etanol_l": 54.0063,
+    "gasolina_equivalente_l": 39.2584,
+    "co2e_evitado_kg": 55.8954,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 36.6421,
+    "etanol_l": 36.6421,
+    "gasolina_equivalente_l": 26.636,
+    "co2e_evitado_kg": 37.9238,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 48.0737,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 104.0228,
+    "etanol_l": 104.0228,
+    "gasolina_equivalente_l": 75.4667,
+    "co2e_evitado_kg": 107.321,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 150.5255,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 47.018,
+    "etanol_l": 47.018,
+    "gasolina_equivalente_l": 33.4104,
+    "co2e_evitado_kg": 47.0732,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 49.347,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 35.9418,
+    "etanol_l": 35.9418,
+    "gasolina_equivalente_l": 26.0751,
+    "co2e_evitado_kg": 37.0814,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Aparecida do Taboado",
+    "volume_l": 44.3253,
+    "etanol_l": 44.3253,
+    "gasolina_equivalente_l": 32.2211,
+    "co2e_evitado_kg": 45.8758,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 2.8823,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 99.2339,
+    "etanol_l": 45.8537,
+    "gasolina_equivalente_l": 33.3321,
+    "co2e_evitado_kg": 47.4576,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-19",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 222.7695,
+    "etanol_l": 69.8436,
+    "gasolina_equivalente_l": 51.2113,
+    "co2e_evitado_kg": 72.5558,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 37.651,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 44.7895,
+    "etanol_l": 44.7895,
+    "gasolina_equivalente_l": 32.8428,
+    "co2e_evitado_kg": 46.82,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 48.1204,
+    "etanol_l": 48.1204,
+    "gasolina_equivalente_l": 35.2853,
+    "co2e_evitado_kg": 50.3019,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 41.852,
+    "etanol_l": 41.852,
+    "gasolina_equivalente_l": 30.3629,
+    "co2e_evitado_kg": 43.179,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 33.6914,
+    "etanol_l": 33.6914,
+    "gasolina_equivalente_l": 24.7049,
+    "co2e_evitado_kg": 35.2188,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 43.2639,
+    "etanol_l": 43.2639,
+    "gasolina_equivalente_l": 31.3872,
+    "co2e_evitado_kg": 44.6356,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 94.9836,
+    "etanol_l": 94.9836,
+    "gasolina_equivalente_l": 68.9089,
+    "co2e_evitado_kg": 97.9952,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 112.0537,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 93.9673,
+    "etanol_l": 38.0049,
+    "gasolina_equivalente_l": 27.5719,
+    "co2e_evitado_kg": 39.2099,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 29.2679,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 55.3915,
+    "etanol_l": 55.3915,
+    "gasolina_equivalente_l": 40.2654,
+    "co2e_evitado_kg": 57.329,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 50.7752,
+    "etanol_l": 50.7752,
+    "gasolina_equivalente_l": 36.9097,
+    "co2e_evitado_kg": 52.5513,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-20",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 137.4273,
+    "etanol_l": 37.5016,
+    "gasolina_equivalente_l": 27.2608,
+    "co2e_evitado_kg": 38.8134,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-21",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 11.9503,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-21",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 63.1175,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-21",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 27.5123,
+    "etanol_l": 27.5123,
+    "gasolina_equivalente_l": 20.174,
+    "co2e_evitado_kg": 28.7595,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-21",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 54.1494,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 35.8997,
+    "etanol_l": 35.8997,
+    "gasolina_equivalente_l": 26.0963,
+    "co2e_evitado_kg": 37.1554,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 79.83,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 56.3428,
+    "etanol_l": 56.3428,
+    "gasolina_equivalente_l": 41.3145,
+    "co2e_evitado_kg": 58.897,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 44.6674,
+    "etanol_l": 44.6674,
+    "gasolina_equivalente_l": 32.4054,
+    "co2e_evitado_kg": 46.0836,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 123.1193,
+    "etanol_l": 47.8245,
+    "gasolina_equivalente_l": 34.6958,
+    "co2e_evitado_kg": 49.3408,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 50.495,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 41.8305,
+    "etanol_l": 41.8305,
+    "gasolina_equivalente_l": 29.8727,
+    "co2e_evitado_kg": 42.1355,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 46.7848,
+    "etanol_l": 46.7848,
+    "gasolina_equivalente_l": 33.4108,
+    "co2e_evitado_kg": 47.1259,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Naviraí",
+    "volume_l": 44.5689,
+    "etanol_l": 44.5689,
+    "gasolina_equivalente_l": 32.3982,
+    "co2e_evitado_kg": 46.1279,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 59.473,
+    "etanol_l": 59.473,
+    "gasolina_equivalente_l": 43.2323,
+    "co2e_evitado_kg": 61.5533,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-22",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 65.7719,
+    "etanol_l": 52.5278,
+    "gasolina_equivalente_l": 38.923,
+    "co2e_evitado_kg": 54.943,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 28.663,
+    "etanol_l": 28.663,
+    "gasolina_equivalente_l": 21.0177,
+    "co2e_evitado_kg": 29.9624,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 26.9196,
+    "etanol_l": 26.9196,
+    "gasolina_equivalente_l": 19.5685,
+    "co2e_evitado_kg": 27.8612,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 107.8722,
+    "etanol_l": 107.8722,
+    "gasolina_equivalente_l": 77.9373,
+    "co2e_evitado_kg": 111.1702,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 101.4584,
+    "etanol_l": 33.5348,
+    "gasolina_equivalente_l": 23.9485,
+    "co2e_evitado_kg": 33.7793,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 108.3459,
+    "etanol_l": 108.3459,
+    "gasolina_equivalente_l": 78.282,
+    "co2e_evitado_kg": 111.0903,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 268.484,
+    "etanol_l": 42.3306,
+    "gasolina_equivalente_l": 30.7101,
+    "co2e_evitado_kg": 43.6727,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 81.9191,
+    "etanol_l": 81.9191,
+    "gasolina_equivalente_l": 59.6294,
+    "co2e_evitado_kg": 85.4651,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 45.1134,
+    "etanol_l": 45.1134,
+    "gasolina_equivalente_l": 32.729,
+    "co2e_evitado_kg": 46.5438,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 91.7998,
+    "etanol_l": 91.7998,
+    "gasolina_equivalente_l": 66.5991,
+    "co2e_evitado_kg": 94.7104,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 11.8166,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 46.38,
+    "etanol_l": 46.38,
+    "gasolina_equivalente_l": 34.3675,
+    "co2e_evitado_kg": 48.5125,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 99.4314,
+    "etanol_l": 37.2201,
+    "gasolina_equivalente_l": 27.58,
+    "co2e_evitado_kg": 38.9315,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 54.0778,
+    "etanol_l": 54.0778,
+    "gasolina_equivalente_l": 39.3104,
+    "co2e_evitado_kg": 55.9694,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-23",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 332.3213,
+    "etanol_l": 54.5263,
+    "gasolina_equivalente_l": 40.4039,
+    "co2e_evitado_kg": 57.0334,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 42.1487,
+    "etanol_l": 42.1487,
+    "gasolina_equivalente_l": 30.6389,
+    "co2e_evitado_kg": 43.623,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 45.353,
+    "etanol_l": 45.353,
+    "gasolina_equivalente_l": 32.9681,
+    "co2e_evitado_kg": 46.9394,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 41.7373,
+    "etanol_l": 41.7373,
+    "gasolina_equivalente_l": 29.8062,
+    "co2e_evitado_kg": 42.0416,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 10.567,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 34.683,
+    "etanol_l": 34.683,
+    "gasolina_equivalente_l": 25.1619,
+    "co2e_evitado_kg": 35.7827,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 114.727,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 68.445,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 87.0815,
+    "etanol_l": 42.2635,
+    "gasolina_equivalente_l": 30.182,
+    "co2e_evitado_kg": 42.5717,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 53.5669,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 81.4118,
+    "etanol_l": 75.7227,
+    "gasolina_equivalente_l": 55.1043,
+    "co2e_evitado_kg": 78.9302,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 44.3724,
+    "etanol_l": 44.3724,
+    "gasolina_equivalente_l": 32.2553,
+    "co2e_evitado_kg": 45.9245,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-24",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 201.5333,
+    "etanol_l": 93.4085,
+    "gasolina_equivalente_l": 68.541,
+    "co2e_evitado_kg": 97.0829,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 8.3849,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 55.6643,
+    "etanol_l": 55.6643,
+    "gasolina_equivalente_l": 40.817,
+    "co2e_evitado_kg": 58.1878,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 47.4322,
+    "etanol_l": 47.4322,
+    "gasolina_equivalente_l": 33.8731,
+    "co2e_evitado_kg": 47.778,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 44.5474,
+    "etanol_l": 44.5474,
+    "gasolina_equivalente_l": 32.3183,
+    "co2e_evitado_kg": 45.9598,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 118.0389,
+    "etanol_l": 79.4508,
+    "gasolina_equivalente_l": 57.3866,
+    "co2e_evitado_kg": 81.6557,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 49.5769,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 39.326,
+    "etanol_l": 39.326,
+    "gasolina_equivalente_l": 28.587,
+    "co2e_evitado_kg": 40.7016,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 41.9064,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 99.945,
+    "etanol_l": 99.945,
+    "gasolina_equivalente_l": 73.3795,
+    "co2e_evitado_kg": 104.0093,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-25",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 167.1052,
+    "etanol_l": 87.1971,
+    "gasolina_equivalente_l": 63.4854,
+    "co2e_evitado_kg": 90.8904,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 37.327,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 42.343,
+    "etanol_l": 42.343,
+    "gasolina_equivalente_l": 30.7191,
+    "co2e_evitado_kg": 43.6855,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 39.8889,
+    "etanol_l": 39.8889,
+    "gasolina_equivalente_l": 28.9962,
+    "co2e_evitado_kg": 41.2842,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 93.0324,
+    "etanol_l": 93.0324,
+    "gasolina_equivalente_l": 67.0635,
+    "co2e_evitado_kg": 95.4531,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 3.8487,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 72.6663,
+    "etanol_l": 72.6663,
+    "gasolina_equivalente_l": 52.3589,
+    "co2e_evitado_kg": 74.1973,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 186.9016,
+    "etanol_l": 48.3738,
+    "gasolina_equivalente_l": 35.0943,
+    "co2e_evitado_kg": 49.9075,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 57.916,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 76.1625,
+    "etanol_l": 39.33,
+    "gasolina_equivalente_l": 28.5899,
+    "co2e_evitado_kg": 40.7057,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 40.48,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 30.2944,
+    "etanol_l": 30.2944,
+    "gasolina_equivalente_l": 22.4481,
+    "co2e_evitado_kg": 31.6873,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 1.0481,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-26",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 324.621,
+    "etanol_l": 199.8271,
+    "gasolina_equivalente_l": 144.5825,
+    "co2e_evitado_kg": 206.1341,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 39.6878,
+    "etanol_l": 39.6878,
+    "gasolina_equivalente_l": 28.3426,
+    "co2e_evitado_kg": 39.9772,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Aparecida do Taboado",
+    "volume_l": 127.7953,
+    "etanol_l": 61.6141,
+    "gasolina_equivalente_l": 44.6999,
+    "co2e_evitado_kg": 63.5676,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 51.3932,
+    "etanol_l": 51.3932,
+    "gasolina_equivalente_l": 37.2848,
+    "co2e_evitado_kg": 53.0227,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 34.4308,
+    "etanol_l": 34.4308,
+    "gasolina_equivalente_l": 25.0285,
+    "co2e_evitado_kg": 35.6352,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 193.1451,
+    "etanol_l": 36.9866,
+    "gasolina_equivalente_l": 26.8331,
+    "co2e_evitado_kg": 38.1593,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 36.8945,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 51.5047,
+    "etanol_l": 51.5047,
+    "gasolina_equivalente_l": 37.3657,
+    "co2e_evitado_kg": 53.1377,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 35.2975,
+    "etanol_l": 35.2975,
+    "gasolina_equivalente_l": 25.6586,
+    "co2e_evitado_kg": 36.5322,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 44.486,
+    "etanol_l": 44.486,
+    "gasolina_equivalente_l": 32.3379,
+    "co2e_evitado_kg": 46.0421,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 44.5899,
+    "etanol_l": 44.5899,
+    "gasolina_equivalente_l": 33.041,
+    "co2e_evitado_kg": 46.6401,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-27",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 122.7376,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-28",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 54.905,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-28",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 62.1405,
+    "etanol_l": 62.1405,
+    "gasolina_equivalente_l": 45.1596,
+    "co2e_evitado_kg": 64.2468,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-28",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 68.4493,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-28",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 15.6191,
+    "etanol_l": 15.6191,
+    "gasolina_equivalente_l": 11.3314,
+    "co2e_evitado_kg": 16.1143,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-28",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 57.9111,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-29",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 32.773,
+    "etanol_l": 32.773,
+    "gasolina_equivalente_l": 23.4044,
+    "co2e_evitado_kg": 33.012,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-29",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 68.0076,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-29",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 52.5923,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-29",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 32.0407,
+    "etanol_l": 32.0407,
+    "gasolina_equivalente_l": 23.2911,
+    "co2e_evitado_kg": 33.1615,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-29",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 52.3173,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 93.1553,
+    "etanol_l": 93.1553,
+    "gasolina_equivalente_l": 67.2956,
+    "co2e_evitado_kg": 95.3653,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 74.3157,
+    "etanol_l": 74.3157,
+    "gasolina_equivalente_l": 53.9561,
+    "co2e_evitado_kg": 76.7659,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 44.54,
+    "etanol_l": 44.54,
+    "gasolina_equivalente_l": 32.313,
+    "co2e_evitado_kg": 45.9522,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 51.9678,
+    "etanol_l": 51.9678,
+    "gasolina_equivalente_l": 37.8891,
+    "co2e_evitado_kg": 54.5106,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 185.5731,
+    "etanol_l": 185.5731,
+    "gasolina_equivalente_l": 134.038,
+    "co2e_evitado_kg": 190.183,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 62.5477,
+    "etanol_l": 35.2639,
+    "gasolina_equivalente_l": 25.6341,
+    "co2e_evitado_kg": 36.4974,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Maracaju",
+    "volume_l": 55.1294,
+    "etanol_l": 55.1294,
+    "gasolina_equivalente_l": 40.0748,
+    "co2e_evitado_kg": 57.0578,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Naviraí",
+    "volume_l": 49.6299,
+    "etanol_l": 49.6299,
+    "gasolina_equivalente_l": 36.0771,
+    "co2e_evitado_kg": 51.3659,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 39.154,
+    "etanol_l": 39.154,
+    "gasolina_equivalente_l": 28.4619,
+    "co2e_evitado_kg": 40.5236,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-11-30",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 100.837,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 41.1521,
+    "etanol_l": 41.1521,
+    "gasolina_equivalente_l": 29.9144,
+    "co2e_evitado_kg": 42.5916,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 43.6317,
+    "etanol_l": 43.6317,
+    "gasolina_equivalente_l": 31.654,
+    "co2e_evitado_kg": 45.0151,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 110.6181,
+    "etanol_l": 52.3532,
+    "gasolina_equivalente_l": 37.3874,
+    "co2e_evitado_kg": 52.7349,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 81.5185,
+    "etanol_l": 81.5185,
+    "gasolina_equivalente_l": 59.1402,
+    "co2e_evitado_kg": 84.1031,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 0.0845,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 107.5077,
+    "etanol_l": 45.7574,
+    "gasolina_equivalente_l": 33.2621,
+    "co2e_evitado_kg": 47.3579,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 123.1214,
+    "etanol_l": 123.1214,
+    "gasolina_equivalente_l": 88.9555,
+    "co2e_evitado_kg": 126.2356,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 93.956,
+    "etanol_l": 40.6001,
+    "gasolina_equivalente_l": 29.601,
+    "co2e_evitado_kg": 42.5867,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 41.0656,
+    "etanol_l": 41.0656,
+    "gasolina_equivalente_l": 29.3265,
+    "co2e_evitado_kg": 41.365,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 104.1965,
+    "etanol_l": 47.5521,
+    "gasolina_equivalente_l": 35.236,
+    "co2e_evitado_kg": 49.7385,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 9.1081,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 91.9185,
+    "etanol_l": 91.9185,
+    "gasolina_equivalente_l": 67.4189,
+    "co2e_evitado_kg": 95.6036,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-01",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 157.0614,
+    "etanol_l": 81.6281,
+    "gasolina_equivalente_l": 59.8624,
+    "co2e_evitado_kg": 85.5359,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 135.3503,
+    "etanol_l": 135.3503,
+    "gasolina_equivalente_l": 98.2467,
+    "co2e_evitado_kg": 139.596,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 54.2085,
+    "etanol_l": 54.2085,
+    "gasolina_equivalente_l": 39.3273,
+    "co2e_evitado_kg": 55.9272,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 5.9971,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 59.5078,
+    "etanol_l": 46.3664,
+    "gasolina_equivalente_l": 33.112,
+    "co2e_evitado_kg": 46.7045,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 38.8528,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 54.9103,
+    "etanol_l": 54.9103,
+    "gasolina_equivalente_l": 40.6884,
+    "co2e_evitado_kg": 57.4351,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 64.8911,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 97.7366,
+    "etanol_l": 31.4742,
+    "gasolina_equivalente_l": 23.3223,
+    "co2e_evitado_kg": 32.9214,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-02",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 275.5727,
+    "etanol_l": 88.1009,
+    "gasolina_equivalente_l": 64.0397,
+    "co2e_evitado_kg": 90.8565,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 35.8135,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 99.2641,
+    "etanol_l": 99.2641,
+    "gasolina_equivalente_l": 72.4669,
+    "co2e_evitado_kg": 103.2412,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 51.2437,
+    "etanol_l": 51.2437,
+    "gasolina_equivalente_l": 37.1764,
+    "co2e_evitado_kg": 52.8684,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 46.7346,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 31.5654,
+    "etanol_l": 31.5654,
+    "gasolina_equivalente_l": 22.9001,
+    "co2e_evitado_kg": 32.5662,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 120.6502,
+    "etanol_l": 120.6502,
+    "gasolina_equivalente_l": 87.5295,
+    "co2e_evitado_kg": 124.4755,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 69.4458,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 218.249,
+    "etanol_l": 89.6198,
+    "gasolina_equivalente_l": 65.0886,
+    "co2e_evitado_kg": 92.6227,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 110.3132,
+    "etanol_l": 69.9746,
+    "gasolina_equivalente_l": 50.1062,
+    "co2e_evitado_kg": 70.7746,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 45.5974,
+    "etanol_l": 45.5974,
+    "gasolina_equivalente_l": 33.7876,
+    "co2e_evitado_kg": 47.694,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Naviraí",
+    "volume_l": 49.8222,
+    "etanol_l": 49.8222,
+    "gasolina_equivalente_l": 36.2169,
+    "co2e_evitado_kg": 51.5649,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 52.8576,
+    "etanol_l": 52.8576,
+    "gasolina_equivalente_l": 39.1674,
+    "co2e_evitado_kg": 55.288,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 48.9817,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-03",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 39.6987,
+    "etanol_l": 39.6987,
+    "gasolina_equivalente_l": 29.4167,
+    "co2e_evitado_kg": 41.524,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 38.9449,
+    "etanol_l": 38.9449,
+    "gasolina_equivalente_l": 27.812,
+    "co2e_evitado_kg": 39.2289,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 31.3485,
+    "etanol_l": 31.3485,
+    "gasolina_equivalente_l": 22.7428,
+    "co2e_evitado_kg": 32.3424,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 45.4247,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 50.4191,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 109.6308,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 180.6663,
+    "etanol_l": 76.3051,
+    "gasolina_equivalente_l": 54.912,
+    "co2e_evitado_kg": 77.7645,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 116.7001,
+    "etanol_l": 48.9228,
+    "gasolina_equivalente_l": 34.9376,
+    "co2e_evitado_kg": 49.2795,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 36.5635,
+    "etanol_l": 36.5635,
+    "gasolina_equivalente_l": 27.0935,
+    "co2e_evitado_kg": 38.2447,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Naviraí",
+    "volume_l": 7.9761,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 69.6158,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 60.0942,
+    "etanol_l": 46.81,
+    "gasolina_equivalente_l": 34.6861,
+    "co2e_evitado_kg": 48.9623,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-04",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 255.8897,
+    "etanol_l": 50.1204,
+    "gasolina_equivalente_l": 37.1391,
+    "co2e_evitado_kg": 52.4249,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-05",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 98.9666,
+    "etanol_l": 98.9666,
+    "gasolina_equivalente_l": 72.2383,
+    "co2e_evitado_kg": 102.9132,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-05",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 106.5025,
+    "etanol_l": 106.5025,
+    "gasolina_equivalente_l": 76.6285,
+    "co2e_evitado_kg": 108.5079,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-05",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 51.9767,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-06",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 41.6774,
+    "etanol_l": 41.6774,
+    "gasolina_equivalente_l": 30.2362,
+    "co2e_evitado_kg": 42.9988,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-06",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 64.9029,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-06",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 79.1294,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 27.2938,
+    "etanol_l": 27.2938,
+    "gasolina_equivalente_l": 19.8405,
+    "co2e_evitado_kg": 28.2485,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 56.386,
+    "etanol_l": 56.386,
+    "gasolina_equivalente_l": 40.907,
+    "co2e_evitado_kg": 58.1738,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 38.5008,
+    "etanol_l": 38.5008,
+    "gasolina_equivalente_l": 27.9871,
+    "co2e_evitado_kg": 39.8475,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 35.4253,
+    "etanol_l": 35.4253,
+    "gasolina_equivalente_l": 25.7004,
+    "co2e_evitado_kg": 36.5485,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 37.6852,
+    "etanol_l": 37.6852,
+    "gasolina_equivalente_l": 27.4758,
+    "co2e_evitado_kg": 39.5292,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 29.1727,
+    "etanol_l": 29.1727,
+    "gasolina_equivalente_l": 20.7297,
+    "co2e_evitado_kg": 29.2069,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 54.3356,
+    "etanol_l": 54.3356,
+    "gasolina_equivalente_l": 39.6154,
+    "co2e_evitado_kg": 56.9943,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 8.8817,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 53.4995,
+    "etanol_l": 53.4995,
+    "gasolina_equivalente_l": 38.8129,
+    "co2e_evitado_kg": 55.1958,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 35.0531,
+    "etanol_l": 35.0531,
+    "gasolina_equivalente_l": 25.9743,
+    "co2e_evitado_kg": 36.6648,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SESI",
+    "unidade": "SESI SENAI - Centro de Sustentabilidade da Indústr",
+    "volume_l": 31.2036,
+    "etanol_l": 31.2036,
+    "gasolina_equivalente_l": 23.1218,
+    "co2e_evitado_kg": 32.6383,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 75.7599,
+    "etanol_l": 75.7599,
+    "gasolina_equivalente_l": 55.1618,
+    "co2e_evitado_kg": 78.9912,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 69.5797,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-07",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 60.5846,
+    "etanol_l": 60.5846,
+    "gasolina_equivalente_l": 44.0403,
+    "co2e_evitado_kg": 62.7038,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 47.8616,
+    "etanol_l": 47.8616,
+    "gasolina_equivalente_l": 35.0955,
+    "co2e_evitado_kg": 50.0313,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 40.3135,
+    "etanol_l": 40.3135,
+    "gasolina_equivalente_l": 29.5607,
+    "co2e_evitado_kg": 42.1411,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 53.5606,
+    "etanol_l": 53.5606,
+    "gasolina_equivalente_l": 38.2497,
+    "co2e_evitado_kg": 53.9511,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 33.8912,
+    "etanol_l": 33.8912,
+    "gasolina_equivalente_l": 24.203,
+    "co2e_evitado_kg": 34.1383,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 29.142,
+    "etanol_l": 29.142,
+    "gasolina_equivalente_l": 20.8114,
+    "co2e_evitado_kg": 29.3545,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 220.1271,
+    "etanol_l": 45.0647,
+    "gasolina_equivalente_l": 32.6936,
+    "co2e_evitado_kg": 46.4935,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 45.0765,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 41.4831,
+    "etanol_l": 41.4831,
+    "gasolina_equivalente_l": 30.0952,
+    "co2e_evitado_kg": 42.7984,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 73.7816,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-08",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 264.8076,
+    "etanol_l": 31.9904,
+    "gasolina_equivalente_l": 23.3238,
+    "co2e_evitado_kg": 33.5557,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 34.4103,
+    "etanol_l": 34.4103,
+    "gasolina_equivalente_l": 24.9641,
+    "co2e_evitado_kg": 35.5013,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 40.9135,
+    "etanol_l": 40.9135,
+    "gasolina_equivalente_l": 29.2179,
+    "co2e_evitado_kg": 41.2118,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 108.7371,
+    "etanol_l": 28.3383,
+    "gasolina_equivalente_l": 20.6611,
+    "co2e_evitado_kg": 29.7249,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 65.998,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 105.536,
+    "etanol_l": 105.536,
+    "gasolina_equivalente_l": 76.1436,
+    "co2e_evitado_kg": 107.9764,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 94.7244,
+    "etanol_l": 46.6275,
+    "gasolina_equivalente_l": 33.8274,
+    "co2e_evitado_kg": 48.1059,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SESI",
+    "unidade": "Sesi - Bonito",
+    "volume_l": 61.823,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 47.5198,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 82.7154,
+    "etanol_l": 82.7154,
+    "gasolina_equivalente_l": 60.202,
+    "co2e_evitado_kg": 86.0874,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-09",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 181.6656,
+    "etanol_l": 120.2991,
+    "gasolina_equivalente_l": 87.9991,
+    "co2e_evitado_kg": 124.8465,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 48.7052,
+    "etanol_l": 48.7052,
+    "gasolina_equivalente_l": 35.4049,
+    "co2e_evitado_kg": 50.4089,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 52.6585,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 33.9245,
+    "etanol_l": 33.9245,
+    "gasolina_equivalente_l": 24.2268,
+    "co2e_evitado_kg": 34.1719,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 32.3575,
+    "etanol_l": 32.3575,
+    "gasolina_equivalente_l": 23.4748,
+    "co2e_evitado_kg": 33.3834,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 104.1756,
+    "etanol_l": 47.9858,
+    "gasolina_equivalente_l": 34.8128,
+    "co2e_evitado_kg": 49.5072,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 52.4737,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 118.3213,
+    "etanol_l": 41.7653,
+    "gasolina_equivalente_l": 30.3602,
+    "co2e_evitado_kg": 43.2262,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 84.8572,
+    "etanol_l": 33.7485,
+    "gasolina_equivalente_l": 24.5326,
+    "co2e_evitado_kg": 34.929,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-10",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 165.4477,
+    "etanol_l": 78.1101,
+    "gasolina_equivalente_l": 57.3443,
+    "co2e_evitado_kg": 81.2093,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 42.0058,
+    "etanol_l": 42.0058,
+    "gasolina_equivalente_l": 30.8016,
+    "co2e_evitado_kg": 43.9101,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 46.147,
+    "etanol_l": 46.147,
+    "gasolina_equivalente_l": 33.8383,
+    "co2e_evitado_kg": 48.239,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 43.9154,
+    "etanol_l": 43.9154,
+    "gasolina_equivalente_l": 31.8598,
+    "co2e_evitado_kg": 45.3078,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 44.9475,
+    "etanol_l": 44.9475,
+    "gasolina_equivalente_l": 32.0987,
+    "co2e_evitado_kg": 45.2752,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 86.5308,
+    "etanol_l": 86.5308,
+    "gasolina_equivalente_l": 62.1506,
+    "co2e_evitado_kg": 87.9271,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 51.6782,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 58.2175,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 156.2704,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Maracaju",
+    "volume_l": 42.8083,
+    "etanol_l": 42.8083,
+    "gasolina_equivalente_l": 31.1183,
+    "co2e_evitado_kg": 44.3057,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 46.2796,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 46.5221,
+    "etanol_l": 46.5221,
+    "gasolina_equivalente_l": 33.818,
+    "co2e_evitado_kg": 48.1494,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-11",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 285.447,
+    "etanol_l": 57.3582,
+    "gasolina_equivalente_l": 41.695,
+    "co2e_evitado_kg": 59.3645,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-12",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 38.9981,
+    "etanol_l": 38.9981,
+    "gasolina_equivalente_l": 28.3486,
+    "co2e_evitado_kg": 40.3622,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-12",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 39.3398,
+    "etanol_l": 39.3398,
+    "gasolina_equivalente_l": 28.5403,
+    "co2e_evitado_kg": 40.5871,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-12",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 43.3166,
+    "etanol_l": 43.3166,
+    "gasolina_equivalente_l": 30.934,
+    "co2e_evitado_kg": 43.6324,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-12",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 11.2611,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-12",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 39.9001,
+    "etanol_l": 39.9001,
+    "gasolina_equivalente_l": 28.9468,
+    "co2e_evitado_kg": 41.1652,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-13",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 30.5505,
+    "etanol_l": 30.5505,
+    "gasolina_equivalente_l": 22.1638,
+    "co2e_evitado_kg": 31.5191,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-13",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 37.8409,
+    "etanol_l": 37.8409,
+    "gasolina_equivalente_l": 27.7476,
+    "co2e_evitado_kg": 39.5564,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-13",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 40.948,
+    "etanol_l": 40.948,
+    "gasolina_equivalente_l": 29.707,
+    "co2e_evitado_kg": 42.2463,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-13",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 36.3489,
+    "etanol_l": 36.3489,
+    "gasolina_equivalente_l": 26.3705,
+    "co2e_evitado_kg": 37.5014,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-13",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 42.5922,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-13",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 42.5962,
+    "etanol_l": 42.5962,
+    "gasolina_equivalente_l": 30.9642,
+    "co2e_evitado_kg": 44.0862,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 104.93,
+    "etanol_l": 104.93,
+    "gasolina_equivalente_l": 75.5927,
+    "co2e_evitado_kg": 107.1206,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 42.4703,
+    "etanol_l": 33.3098,
+    "gasolina_equivalente_l": 24.2137,
+    "co2e_evitado_kg": 34.4749,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 53.1196,
+    "etanol_l": 44.3909,
+    "gasolina_equivalente_l": 32.2048,
+    "co2e_evitado_kg": 45.7984,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 60.4948,
+    "etanol_l": 60.4948,
+    "gasolina_equivalente_l": 43.8879,
+    "co2e_evitado_kg": 62.4129,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 86.1985,
+    "etanol_l": 47.5058,
+    "gasolina_equivalente_l": 33.757,
+    "co2e_evitado_kg": 47.5615,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 52.997,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 47.9693,
+    "etanol_l": 35.392,
+    "gasolina_equivalente_l": 25.2748,
+    "co2e_evitado_kg": 35.6501,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 59.4199,
+    "etanol_l": 59.4199,
+    "gasolina_equivalente_l": 43.2548,
+    "co2e_evitado_kg": 61.8919,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 71.0934,
+    "etanol_l": 39.0303,
+    "gasolina_equivalente_l": 28.372,
+    "co2e_evitado_kg": 40.3955,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-14",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 111.4453,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 36.7495,
+    "etanol_l": 36.7495,
+    "gasolina_equivalente_l": 26.6611,
+    "co2e_evitado_kg": 37.9147,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 43.5845,
+    "etanol_l": 43.5845,
+    "gasolina_equivalente_l": 31.7769,
+    "co2e_evitado_kg": 45.7171,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 38.9662,
+    "etanol_l": 38.9662,
+    "gasolina_equivalente_l": 27.8272,
+    "co2e_evitado_kg": 39.2503,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Corumbá",
+    "volume_l": 45.4257,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 132.7997,
+    "etanol_l": 132.7997,
+    "gasolina_equivalente_l": 95.7779,
+    "co2e_evitado_kg": 135.7925,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 193.3982,
+    "etanol_l": 94.4441,
+    "gasolina_equivalente_l": 68.5175,
+    "co2e_evitado_kg": 97.4386,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 184.3501,
+    "etanol_l": 35.0774,
+    "gasolina_equivalente_l": 25.4986,
+    "co2e_evitado_kg": 36.3044,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 52.1567,
+    "etanol_l": 52.1567,
+    "gasolina_equivalente_l": 38.551,
+    "co2e_evitado_kg": 54.3245,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 65.948,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 52.6572,
+    "etanol_l": 52.6572,
+    "gasolina_equivalente_l": 38.3917,
+    "co2e_evitado_kg": 55.2338,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 54.5306,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 17.0825,
+    "etanol_l": 17.0825,
+    "gasolina_equivalente_l": 12.393,
+    "co2e_evitado_kg": 17.6241,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 90.0506,
+    "etanol_l": 44.8819,
+    "gasolina_equivalente_l": 32.6257,
+    "co2e_evitado_kg": 46.4518,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-15",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 225.0716,
+    "etanol_l": 59.6411,
+    "gasolina_equivalente_l": 43.2685,
+    "co2e_evitado_kg": 61.5321,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "IEL",
+    "unidade": "Iel - Instituto Euvaldo Lodi - Campo Grande",
+    "volume_l": 49.6384,
+    "etanol_l": 49.6384,
+    "gasolina_equivalente_l": 36.0118,
+    "co2e_evitado_kg": 51.2122,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai Rio Verde de Mato Grosso",
+    "volume_l": 36.6749,
+    "etanol_l": 36.6749,
+    "gasolina_equivalente_l": 26.1909,
+    "co2e_evitado_kg": 36.9423,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Três Lagoas",
+    "volume_l": 57.5563,
+    "etanol_l": 57.5563,
+    "gasolina_equivalente_l": 41.1031,
+    "co2e_evitado_kg": 57.976,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 35.9431,
+    "etanol_l": 35.9431,
+    "gasolina_equivalente_l": 26.0761,
+    "co2e_evitado_kg": 37.0827,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 56.8419,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 56.2719,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SENAI",
+    "unidade": "Serviço Senai de Inovação Biomassa",
+    "volume_l": 62.8866,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SESI",
+    "unidade": "Sesi - Campo Grande",
+    "volume_l": 55.639,
+    "etanol_l": 55.639,
+    "gasolina_equivalente_l": 41.2284,
+    "co2e_evitado_kg": 58.1973,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 44.9388,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 66.133,
+    "etanol_l": 66.133,
+    "gasolina_equivalente_l": 48.5652,
+    "co2e_evitado_kg": 68.8305,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-16",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 208.2684,
+    "etanol_l": 44.5565,
+    "gasolina_equivalente_l": 32.3891,
+    "co2e_evitado_kg": 46.115,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 44.6121,
+    "etanol_l": 44.6121,
+    "gasolina_equivalente_l": 32.7128,
+    "co2e_evitado_kg": 46.6345,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 57.3173,
+    "etanol_l": 57.3173,
+    "gasolina_equivalente_l": 41.5827,
+    "co2e_evitado_kg": 59.1346,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 38.3355,
+    "etanol_l": 38.3355,
+    "gasolina_equivalente_l": 27.867,
+    "co2e_evitado_kg": 39.6764,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 29.7163,
+    "etanol_l": 29.7163,
+    "gasolina_equivalente_l": 21.2215,
+    "co2e_evitado_kg": 29.933,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "FATEC Senai Campo Grande",
+    "volume_l": 37.8397,
+    "etanol_l": 37.8397,
+    "gasolina_equivalente_l": 27.452,
+    "co2e_evitado_kg": 39.0394,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 134.6602,
+    "etanol_l": 89.2619,
+    "gasolina_equivalente_l": 64.7579,
+    "co2e_evitado_kg": 92.092,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 240.4932,
+    "etanol_l": 92.9753,
+    "gasolina_equivalente_l": 67.6244,
+    "co2e_evitado_kg": 96.7472,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "SENAI - AGENCIA SENAI SIDROLANDIA",
+    "volume_l": 31.4888,
+    "etanol_l": 31.4888,
+    "gasolina_equivalente_l": 22.8899,
+    "co2e_evitado_kg": 32.5902,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "SENAI - Centro de Sustentabilidade da Indústria",
+    "volume_l": 71.0992,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 37.3796,
+    "etanol_l": 37.3796,
+    "gasolina_equivalente_l": 27.1182,
+    "co2e_evitado_kg": 38.5648,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 50.7302,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SESI",
+    "unidade": "Centro de Inovação SST - Sesi Campo Grande",
+    "volume_l": 43.3325,
+    "etanol_l": 43.3325,
+    "gasolina_equivalente_l": 32.1093,
+    "co2e_evitado_kg": 45.3249,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SESI",
+    "unidade": "Sesi - Dourados",
+    "volume_l": 28.3907,
+    "etanol_l": 28.3907,
+    "gasolina_equivalente_l": 20.6379,
+    "co2e_evitado_kg": 29.3838,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SESI",
+    "unidade": "Sesi - Três Lagoas",
+    "volume_l": 49.5537,
+    "etanol_l": 31.1822,
+    "gasolina_equivalente_l": 22.6671,
+    "co2e_evitado_kg": 32.2729,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-17",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 293.0706,
+    "etanol_l": 44.1472,
+    "gasolina_equivalente_l": 32.028,
+    "co2e_evitado_kg": 45.5469,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Agência Senai de Nova Andradina",
+    "volume_l": 28.8103,
+    "etanol_l": 28.8103,
+    "gasolina_equivalente_l": 21.1258,
+    "co2e_evitado_kg": 30.1164,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Maracaju",
+    "volume_l": 60.7054,
+    "etanol_l": 60.7054,
+    "gasolina_equivalente_l": 44.5135,
+    "co2e_evitado_kg": 63.4574,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Centro Integrado Sesi Senai Naviraí",
+    "volume_l": 44.6995,
+    "etanol_l": 44.6995,
+    "gasolina_equivalente_l": 32.4287,
+    "co2e_evitado_kg": 46.1167,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Escola SENAI da Construção",
+    "volume_l": 39.1049,
+    "etanol_l": 39.1049,
+    "gasolina_equivalente_l": 28.3699,
+    "co2e_evitado_kg": 40.3448,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Faculdade de Tecnologia Senai Dourados",
+    "volume_l": 50.1468,
+    "etanol_l": 50.1468,
+    "gasolina_equivalente_l": 36.3806,
+    "co2e_evitado_kg": 51.7368,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "NUAM - Núcleo de Ações Móveis - Senai - Campo Grande",
+    "volume_l": 227.7017,
+    "etanol_l": 134.9932,
+    "gasolina_equivalente_l": 97.9351,
+    "co2e_evitado_kg": 139.2733,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Senai DR",
+    "volume_l": 124.1373,
+    "etanol_l": 76.797,
+    "gasolina_equivalente_l": 55.7148,
+    "co2e_evitado_kg": 79.2319,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SENAI",
+    "unidade": "Senai Empresa",
+    "volume_l": 70.4672,
+    "etanol_l": 70.4672,
+    "gasolina_equivalente_l": 51.6205,
+    "co2e_evitado_kg": 73.1457,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SESI",
+    "unidade": "Escola do Sesi Naviraí",
+    "volume_l": 37.5769,
+    "etanol_l": 37.5769,
+    "gasolina_equivalente_l": 27.3155,
+    "co2e_evitado_kg": 38.8913,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SESI",
+    "unidade": "Sesi - Corumbá",
+    "volume_l": 49.8592,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  },
+  {
+    "data": "2026-12-18",
+    "entidade": "SESI",
+    "unidade": "Sesi DR",
+    "volume_l": 170.7455,
+    "etanol_l": 0.0,
+    "gasolina_equivalente_l": 0.0,
+    "co2e_evitado_kg": 0.0,
+    "origem": "SIMULADO"
+  }
+]
