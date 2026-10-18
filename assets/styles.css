@@ -233,6 +233,27 @@ dd { margin: .2rem 0 0; font-size: .85rem; font-weight: 600; overflow-wrap: anyw
 .disclaimer { grid-column: 1 / -1; margin: 0; padding: .9rem 1rem; border: 1px solid #eedbb9; border-radius: 12px; background: #fff8eb; color: #70480f; font-size: .8rem; }
 .badge-simulado { display: inline-flex; align-items: center; width: fit-content; max-width: 100%; padding: .2rem .6rem; border: 1px solid #e5cd9e; border-radius: 999px; background: #fff4df; color: #70480f; font-size: .65rem; font-weight: 700; letter-spacing: .04em; vertical-align: middle; }
 
+body:has(#historico-dialog[open]) { overflow: hidden; }
+#historico-dialog {
+  width: min(1100px, calc(100% - 2rem));
+  max-height: 90vh;
+  max-height: 90dvh;
+  margin: auto;
+  padding: clamp(1rem, 3vw, 2rem);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 16px 60px rgb(33 58 84 / 25%);
+  overflow: auto;
+}
+#historico-dialog::backdrop { background: rgb(20 36 54 / 60%); }
+#historico-dialog .section-heading { flex-wrap: wrap; }
+#historico-dialog > p { color: var(--muted); font-size: .8rem; }
+#historico-resumo { margin-top: 1rem; font-weight: 600; }
+.history-scroll { max-height: 50vh; overflow: auto; overscroll-behavior: contain; }
+.history-scroll th { position: sticky; top: 0; z-index: 1; }
+
 .table-wrap { max-width: 100%; overflow-x: auto; margin-top: 1rem; border: 1px solid var(--line); border-radius: 12px; overscroll-behavior-x: contain; }
 table { width: 100%; border-collapse: collapse; font-size: .8rem; font-variant-numeric: tabular-nums; }
 caption { padding: .8rem 1rem; text-align: left; color: var(--muted); }

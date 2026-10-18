@@ -178,6 +178,9 @@ function atualizarDiarios() {
     (porId('filtro-entidade').value === 'todas' || linha.entidade === porId('filtro-entidade').value) &&
     (porId('filtro-unidade').value === 'todas' || linha.unidade === porId('filtro-unidade').value));
   porId('daily-body').replaceChildren();
+  porId('history-body').replaceChildren();
+  const ultimaData = linhas.reduce((ultima, linha) => linha.data > ultima ? linha.data : ultima, '');
+  const ultimoDia = linhas.filter((linha) => linha.data === ultimaData);
   const grupos = agrupar(linhas, (linha) => JSON.stringify([linha.data, linha.entidade, linha.unidade])).sort((a, b) => {
       const [dataA, entidadeA, unidadeA] = JSON.parse(a.nome);
       const [dataB, entidadeB, unidadeB] = JSON.parse(b.nome);
@@ -185,11 +188,19 @@ function atualizarDiarios() {
     });
   grupos.forEach((grupo) => {
     const [data, entidade, unidade] = JSON.parse(grupo.nome);
-    adicionarLinha(porId('daily-body'), [data.split('-').reverse().join('/'), entidade, unidade, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3), dados.teste_publicacao ? 'SIMULADO · TESTE' : 'SIMULADO']);
+    const valores = [data.split('-').reverse().join('/'), entidade, unidade, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3), dados.teste_publicacao ? 'SIMULADO · TESTE' : 'SIMULADO'];
+    if (data === ultimaData) adicionarLinha(porId('daily-body'), valores);
+    if (!dados.teste_publicacao) adicionarLinha(porId('history-body'), valores);
   });
-  porId('simulation-state').textContent = linhas.length
-    ? `${numero(somar(linhas, 'etanol_l'))} L de etanol · ${numero(somar(linhas, 'co2e_evitado_kg') / 1000, 3)} t CO₂e direto evitado (${dados.teste_publicacao ? 'teste de publicação; fora da campanha' : 'simulação'})`
+  porId('simulation-state').textContent = ultimoDia.length
+    ? `${ultimaData.split('-').reverse().join('/')} · ${numero(somar(ultimoDia, 'etanol_l'))} L de etanol · ${numero(somar(ultimoDia, 'co2e_evitado_kg') / 1000, 3)} t CO₂e direto evitado (${dados.teste_publicacao ? 'teste de publicação; fora da campanha' : 'simulação'})`
     : 'Nenhum registro publicado no recorte selecionado';
+  const historico = dados.teste_publicacao ? [] : linhas;
+  const dias = new Set(historico.map((linha) => linha.data)).size;
+  porId('historico-resumo').textContent = historico.length
+    ? `${dias} dias publicados · ${numero(somar(historico, 'etanol_l'))} L de etanol · ${numero(somar(historico, 'co2e_evitado_kg') / 1000, 3)} t CO₂e direto evitado acumulado (simulação).`
+    : 'Nenhum registro da campanha publicado neste recorte.';
+  if (!historico.length) adicionarLinha(porId('history-body'), ['Sem registros publicados', '—', '—', '—', '—', '—']);
 }
 
 function atualizar() {
@@ -215,6 +226,8 @@ function atualizar() {
 async function iniciar() {
   try {
     dados = await obterDados();
+    porId('abrir-historico').addEventListener('click', () => porId('historico-dialog').showModal());
+    porId('fechar-historico').addEventListener('click', () => porId('historico-dialog').close());
     [...new Set(dados.historico.map((linha) => linha.ano))].sort().forEach((ano) => porId('filtro-ano').add(new Option(ano, ano)));
     opcoes(porId('filtro-entidade'), dados.historico.map((linha) => linha.entidade), 'Todas as entidades');
     opcoes(porId('filtro-unidade'), dados.historico.map((linha) => linha.unidade), 'Todas as unidades');
