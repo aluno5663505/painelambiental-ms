@@ -188,7 +188,7 @@ function atualizarDiarios() {
     });
   grupos.forEach((grupo) => {
     const [data, entidade, unidade] = JSON.parse(grupo.nome);
-    const valores = [data.split('-').reverse().join('/'), entidade, unidade, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3), dados.teste_publicacao ? 'SIMULADO · TESTE' : 'SIMULADO'];
+    const valores = [data.split('-').reverse().join('/'), entidade, unidade, numero(grupo.etanol_l), numero(grupo.co2e_evitado_kg / 1000, 3), dados.teste_publicacao ? 'API · TESTE' : 'API'];
     if (data === ultimaData) adicionarLinha(porId('daily-body'), valores);
     if (!dados.teste_publicacao) adicionarLinha(porId('history-body'), valores);
   });
